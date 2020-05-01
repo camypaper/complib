@@ -1,5 +1,6 @@
 {
 "Tests/Collections/DisjointSet.test.csx": "2020-05-01 16:22:52 +0900",
+"Tests/Collections/Fenwick.test.csx": "2020-05-01 20:23:53 +0900",
 "Tests/Graph/HLtree.test.csx": "2020-05-01 14:43:46 +0900",
 "Tests/Mathematics/ExtendedEuclid.test.csx": "2020-05-01 19:30:51 +0900",
 "Tests/Mathematics/LCM.test.csx": "2020-05-01 19:16:13 +0900",
