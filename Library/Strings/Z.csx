@@ -4,7 +4,7 @@ static public partial class stringEx {
 	/// <summary> <paramref name="s"/> と <paramref name="s"/>[i:] の最長共通接頭辞を O(|<paramref name="s"/>|) で求める。</summary>
 	static public int[] Z<T>(T[] s)
 		where T : IEquatable<T> {
-		var a = new int[s.Length + 1];
+		var a = new int[s.Length];
 		a[0] = s.Length;
 		int i = 1, j = 0;
 		while (i < s.Length) {
