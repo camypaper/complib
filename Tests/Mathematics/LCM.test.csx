@@ -1,5 +1,5 @@
 #load "../../Library/Mathematics/GCDLCM.csx"
-#pragma PROBLEM "https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/all/NTL_1_C"
+#pragma PROBLEM https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/all/NTL_1_C
 
 using System;
 using System.Collections.Generic;
