@@ -1,4 +1,4 @@
-#load "../../Library/Mathematics/PrimeSieve.cs"
+#load "../../Library/Mathematics/PrimeSieve.csx"
 #pragma PROBLEM https://judge.yosupo.jp/problem/enumerate_primes
 
 using System;
