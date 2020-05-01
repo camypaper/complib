@@ -6,5 +6,8 @@ using System.Collections.Generic;
 
 var a = Console.ReadLine().Split().Select(int.Parse).ToArray();
 long x, y;
-MathEx.ExGCD(a[0], a[1], out x, out y);
-Console.WriteLine($"{Math.Min(x,y)} {Math.Max(x,y)}");
+if (a[0] == a[1]) Console.WriteLine("0 1");
+else {
+	MathEx.ExGCD(a[0], a[1], out x, out y);
+	Console.WriteLine($"{x} {y}");
+}
