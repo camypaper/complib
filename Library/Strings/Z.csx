@@ -1,3 +1,4 @@
+using System;
 #region Z algorithm
 static public partial class stringEx {
 	/// <summary> <paramref name="s"/> と <paramref name="s"/>[i:] の最長共通接頭辞を O(|<paramref name="s"/>|) で求める。</summary>
