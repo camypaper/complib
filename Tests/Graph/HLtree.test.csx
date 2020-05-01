@@ -1,7 +1,5 @@
 #load "../../Library/Graph/HLTree.csx"
-#pragma warning disable 1633
 #pragma PROBLEM https://judge.yosupo.jp/problem/lca
-#pragma warning restore
 using System;
 using System.Collections.Generic;
 
