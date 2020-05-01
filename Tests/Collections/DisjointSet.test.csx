@@ -1,7 +1,6 @@
 #load "../../Library/Collections/DisjointSet.csx"
-#if RELEASE
 #pragma PROBLEM https://judge.yosupo.jp/problem/unionfind
-#endif
+
 using System;
 using System.Collections.Generic;
 
