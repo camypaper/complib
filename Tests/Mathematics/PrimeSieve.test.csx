@@ -8,7 +8,6 @@ var nab = Console.ReadLine().Split().Select(int.Parse).ToArray();
 var (n, a, b) = (nab[0], nab[1], nab[2]);
 
 var cnt = 0;
-int count = 0;
 
 var ans = new List<int>();
 foreach (var p in MathEx.SieveList(n)) {
@@ -16,5 +15,5 @@ foreach (var p in MathEx.SieveList(n)) {
 	cnt++;
 }
 
-Console.WriteLine($"{count} {ans.Count}");
+Console.WriteLine($"{cnt} {ans.Count}");
 Console.WriteLine(String.Join(' ', ans));
