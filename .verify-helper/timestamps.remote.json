@@ -5,5 +5,6 @@
 "Tests/Mathematics/ExtendedEuclid.test.csx": "2020-05-01 19:30:51 +0900",
 "Tests/Mathematics/LCM.test.csx": "2020-05-01 19:16:13 +0900",
 "Tests/Mathematics/PrimeSieve.test.csx": "2020-05-01 14:43:46 +0900",
+"Tests/Misc/BinarySearch.test.csx": "2020-05-06 00:03:45 +0900",
 "Tests/Strings/Z.test.csx": "2020-05-01 14:52:00 +0900"
 }
