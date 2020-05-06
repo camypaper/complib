@@ -4,6 +4,6 @@
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="./Library/**/*.cs;./Library/**/*.csx" />
+    <Compile Include="./Library/**/*.{cs,csx}" />
   </ItemGroup>
 </Project>
