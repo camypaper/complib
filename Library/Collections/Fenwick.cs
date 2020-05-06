@@ -11,10 +11,12 @@ namespace CompLib.Collections {
 			n = size; bit = new Number[n + 1];
 			while ((max << 1) <= n) max <<= 1;
 		}
-		/// <summary>sum[a,b]</summary>
+		/// <summary>Sum of bit[<paramref name="i"/>, <paramref name="j"/>]</summary>
 		public Number this[int i, int j] { get { return this[j] - this[i - 1]; } }
-		/// <summary>sum[0,i]</summary>
+		/// <summary>Sum of bit[0, <paramref name="i"/>]</summary>
 		public Number this[int i] { get { Number s = 0; for (; i > 0; i -= i & -i) s += bit[i]; return s; } }
+
+		/// <summary>Returns the smallest i such that bit[0, i] >= <paramref name="w"/></summary>
 		public int LowerBound(Number w) {
 			if (w <= 0) return 0;
 			int x = 0;
@@ -25,10 +27,11 @@ namespace CompLib.Collections {
 				}
 			return x + 1;
 		}
-		/// <summary>add v to bit[i]</summary>
+		/// <summary>Add <paramref name="v"/> to bit[<paramref name="i"/>](1-indexed)</summary>
 		public void Add(int i, Number v) {
 			for (; i < bit.Length; i += i & -i) bit[i] += v;
 		}
+		/// <summary>Enumerate bit in O(N log N)</summary>
 		public Number[] Items {
 			get {
 				var ret = new Number[n + 1];
@@ -49,15 +52,16 @@ namespace CompLib.Collections {
 			a = new FenwickTree(n);
 			b = new FenwickTree(n);
 		}
-		/// <summary>Add V to[i,j]</summary>
+		/// <summary>Add <paramref name="v"/> to bit[<paramref name="i"/>](1-indexed)</summary>
 		public void Add(int i, int j, Number v) {
 			a.Add(i, -(i - 1) * v); a.Add(j + 1, j * v);
 			b.Add(i, v); b.Add(j + 1, -v);
 		}
-		/// <summary>Sum [0,i]</summary>
+		/// <summary>Sum of bit[0, <paramref name="i"/>]</summary>
 		public Number this[int i] { get { return a[i] + b[i] * i; } }
-		/// <summary>Sum [i,j]</summary>
+		/// <summary>Sum of bit[<paramref name="i"/>, <paramref name="j"/>]</summary>
 		public Number this[int i, int j] { get { return this[j] - this[i - 1]; } }
+		/// <summary>Enumerate bit in O(N log N)</summary>
 		public Number[] Items {
 			get {
 				var ret = new Number[n + 1];
