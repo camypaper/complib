@@ -1,0 +1,29 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - doc
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        ref: doc
+    - uses: nikeee/docfx-action@master
+      name: Build Documentation
+      with:
+        args: ./docfx.json
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: doc
+    - uses: maxheld83/ghpages@master
+      name: Publish Documentation on GitHub Pages
+      env:
+        BUILD_DIR: _site
+        GH_PAT: ${{ secrets.GH_PAT }}
