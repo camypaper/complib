@@ -1,4 +1,4 @@
-// #load "../../Library/Misc/BinarySearch.cs"
+#r "./../../bin/complib.dll"
 #pragma PROBLEM https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1/DPL_1_D
 
 using System;

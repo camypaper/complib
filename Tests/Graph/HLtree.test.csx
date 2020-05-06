@@ -1,4 +1,4 @@
-#load "../../Library/Graph/HLTree.csx"
+#r "./../../bin/complib.dll"
 #pragma PROBLEM https://judge.yosupo.jp/problem/lca
 using System;
 using System.Collections.Generic;

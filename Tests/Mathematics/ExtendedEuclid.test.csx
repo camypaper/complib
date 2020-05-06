@@ -1,4 +1,4 @@
-#load "../../Library/Mathematics/GCDLCM.csx"
+#r "./../../bin/complib.dll"
 #pragma PROBLEM https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/all/NTL_1_E
 
 using System;
