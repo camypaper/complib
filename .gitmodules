@@ -1,0 +1,7 @@
+[submodule "complib"]
+	path = complib
+	url = git@github.com:camypaper/complib.git
+	branch = master
+[submodule "docfx-material"]
+	path = docfx-material
+	url = https://github.com/ovasquez/docfx-material.git
