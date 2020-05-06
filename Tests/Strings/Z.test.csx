@@ -6,5 +6,5 @@ using System.Collections.Generic;
 using CompLib.Strings;
 
 var s = Console.ReadLine();
-var a = stringEx.Z(s.ToCharArray());
+var a = StringEx.Z(s.ToCharArray());
 Console.WriteLine(string.Join(' ', a));
