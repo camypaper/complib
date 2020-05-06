@@ -6,7 +6,7 @@ namespace CompLib.Graph {
 		int n;
 		public List<int>[] G;
 		int[] sz, par, d;
-		//[L,R)
+		/// <summary><c>L[i]</c> is the position of <c>i</c> in pre-order </summary>
 		public int[] L;
 		int[] R, head;
 		public HLTree(int N) {
@@ -21,7 +21,9 @@ namespace CompLib.Graph {
 			L = new int[n];
 			R = new int[n];
 		}
+		/// <summary>Add edge between <paramref name="u"/> and <paramref name="v"/></summary>
 		public void AddEdge(int u, int v) { G[u].Add(v); G[v].Add(u); }
+		/// <summary>Initialize HL decompsition</summary>
 		public void Build(int root = 0) {
 			dfs(root);
 			int ptr = 0;
@@ -75,6 +77,7 @@ namespace CompLib.Graph {
 
 
 		static void Swap<T>(ref T u, ref T v) { var tmp = u; u = v; v = tmp; }
+		/// <summary>Returns the LCA of <paramref name="u"/> and <paramref name="v"/></summary>
 		public int LCA(int u, int v) {
 			while (head[u] != head[v]) {
 				if (d[head[u]] > d[head[v]]) Swap(ref u, ref v);

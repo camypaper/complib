@@ -11,9 +11,9 @@ namespace CompLib.Collections {
 			n = size; bit = new Number[n + 1];
 			while ((max << 1) <= n) max <<= 1;
 		}
-		/// <summary>Sum of bit[<paramref name="i"/>, <paramref name="j"/>]</summary>
+		/// <summary>Sum of <c>bit[i, j]</c></summary>
 		public Number this[int i, int j] { get { return this[j] - this[i - 1]; } }
-		/// <summary>Sum of bit[0, <paramref name="i"/>]</summary>
+		/// <summary>Sum of <c>bit[0, i]</c></summary>
 		public Number this[int i] { get { Number s = 0; for (; i > 0; i -= i & -i) s += bit[i]; return s; } }
 
 		/// <summary>Returns the smallest <c>i</c> such that <c>bit[0, i] >= w<c>. <c>bit[i]</c> must be non-negative.</summary>
