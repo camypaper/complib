@@ -11,12 +11,14 @@ namespace CompLib.Collections {
 			rank = new byte[N];
 			for (int i = 0; i < N; i++) { par[i] = -1; }
 		}
+		/// <summary>Find root of <c>id</c>. Time complexity: <c>O(α(N))</c></summary>
 		public int this[int id] {
 			get {
 				if ((par[id] < 0)) return id;
 				return par[id] = this[par[id]];
 			}
 		}
+		/// <summary>Unite <paramref name="x"/> and <paramref name="y"/>. Time complexity: <c>O(α(N))</c></summary>
 		public bool Unite(int x, int y) {
 			x = this[x]; y = this[y];
 			if (x == y) return false;
@@ -27,6 +29,7 @@ namespace CompLib.Collections {
 				rank[x]++;
 			return true;
 		}
+		/// <summary>Size of <paramref name="x"/>. Time complexity: <c>O(α(N))</c></summary>
 		public int Size(int x) { return -par[this[x]]; }
 		public bool Same(int x, int y) { return this[x] == this[y]; }
 
