@@ -23,7 +23,7 @@ namespace CompLib.Graph {
 		}
 		/// <summary>Add edge between <paramref name="u"/> and <paramref name="v"/></summary>
 		public void AddEdge(int u, int v) { G[u].Add(v); G[v].Add(u); }
-		/// <summary>Initialize HL decompsition</summary>
+		/// <summary>Initialize HL decompsition. Time complexity: <c>O(N)</c></summary>
 		public void Build(int root = 0) {
 			dfs(root);
 			int ptr = 0;
@@ -77,7 +77,7 @@ namespace CompLib.Graph {
 
 
 		static void Swap<T>(ref T u, ref T v) { var tmp = u; u = v; v = tmp; }
-		/// <summary>Returns the LCA of <paramref name="u"/> and <paramref name="v"/></summary>
+		/// <summary>Returns the LCA of <paramref name="u"/> and <paramref name="v"/>. Time complexity: <c>O(log N)</c></summary>
 		public int LCA(int u, int v) {
 			while (head[u] != head[v]) {
 				if (d[head[u]] > d[head[v]]) Swap(ref u, ref v);

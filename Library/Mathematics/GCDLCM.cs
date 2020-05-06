@@ -5,12 +5,12 @@ namespace CompLib.Mathematics {
 	#region GCD LCM
 	public static partial class MathEx {
 		/// <summary>
-		/// GCD(n,m) を O(log N) で計算します
+		/// Calculate <c>GCD(n,m)</c>. Time complexity: <c>O(log N)</c>
 		/// </summary>
 		public static int GCD(int n, int m) { return (int)GCD((long)n, m); }
 
 		/// <summary>
-		/// GCD(n,m) を O(log N) で計算します
+		/// Calculate <c>GCD(n,m)</c>. Time complexity: <c>O(log N)</c>
 		/// </summary>
 		public static long GCD(long n, long m) {
 			n = Math.Abs(n);
@@ -24,7 +24,7 @@ namespace CompLib.Mathematics {
 		}
 
 		/// <summary>
-		/// LCM(n,m) を O(log N) で計算します
+		/// Calculate <c>LCM(n,m)</c>. Time complexity: <c>O(log N)</c>
 		/// </summary>
 		public static long LCM(long n, long m) { return (n / GCD(n, m)) * m; }
 	}
@@ -33,7 +33,7 @@ namespace CompLib.Mathematics {
 	#region Extended Euclid
 	static partial class MathEx {
 		/// <summary>
-		/// g = GCD(a,b) を求め，ax+by = g なる (x,y) も求める
+		/// Calculate <c>GCD(a,b)</c>, with <c>(x,y)</c> such that <c>ax+by=GCD(a,b)</c>. Time complexity: <c>O(log N)</c>
 		/// </summary>
 		static public long ExGCD(long a, long b, out long x, out long y) {
 			a = Math.Abs(a);
