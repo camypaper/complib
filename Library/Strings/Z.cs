@@ -2,7 +2,7 @@ using System;
 namespace CompLib.Strings {
 	#region Z algorithm
 	static public partial class StringEx {
-		/// <summary> <paramref name="s"/> と <paramref name="s"/>[i:] の最長共通接頭辞を O(|<paramref name="s"/>|) で求める。</summary>
+		/// <summary> Calculate <c>LCP(s,s[i,N])</c> for all <c>i</c>. Time complexity: <c>O(N)</summary>
 		static public int[] Z<T>(T[] s)
 			where T : IEquatable<T> {
 			var a = new int[s.Length];
