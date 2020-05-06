@@ -1,5 +1,6 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Actions Status](https://github.com/camypaper/complib/workflows/verify/badge.svg)](https://github.com/camypaper/complib/actions) 
+[![GitHub Pages](https://img.shields.io/static/v1?label=GitHub+Pages&message=+&color=brightgreen&logo=github)](https://camypaper.github.io/complib/) 
 -------
 
 ### これはなに？
