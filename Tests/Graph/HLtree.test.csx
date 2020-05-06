@@ -1,4 +1,7 @@
 #r "./../../bin/complib.dll"
+/* dependency
+#load "../../Library/Graph/HLTree.cs"
+//*/
 #pragma PROBLEM https://judge.yosupo.jp/problem/lca
 using System;
 using System.Collections.Generic;

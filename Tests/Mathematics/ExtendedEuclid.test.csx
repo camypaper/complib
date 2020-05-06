@@ -1,4 +1,7 @@
 #r "./../../bin/complib.dll"
+/* dependency
+#load "../../Library/Mathematics/GCDLCM.cs"
+//*/
 #pragma PROBLEM https://onlinejudge.u-aizu.ac.jp/courses/library/6/NTL/all/NTL_1_E
 
 using System;

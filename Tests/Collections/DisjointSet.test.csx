@@ -1,4 +1,7 @@
 #r "./../../bin/complib.dll"
+/* dependency
+#load "../../Library/Collections/DisjointSet.cs"
+//*/
 #pragma PROBLEM https://judge.yosupo.jp/problem/unionfind
 
 using System;

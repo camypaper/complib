@@ -1,4 +1,7 @@
 #r "./../../bin/complib.dll"
+/* dependency
+#load "../../Library/Collections/Fenwick.cs"
+//*/
 #pragma PROBLEM https://judge.yosupo.jp/problem/point_add_range_sum
 
 using System;

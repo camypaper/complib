@@ -1,4 +1,7 @@
 #r "./../../bin/complib.dll"
+/* dependency
+#load "../../Library/Strings/Z.cs"
+//*/
 #pragma PROBLEM https://judge.yosupo.jp/problem/zalgorithm
 
 using System;
