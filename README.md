@@ -19,6 +19,12 @@
 ### 使い方
 - Library にあるコード断片を貼り付けるだけ
 
+### FAQ
+- テストを手元で回したい
+  - `dotnet build -o ./bin -c Release` をリポジトリ直下で実行して dll を生成してから、適当な手段でスクリプトを実行
+- ベンチマークを動かしたい
+  - `./Benchmark` で `dotnet run`
+
 ### 依存しているもの
 - https://github.com/online-judge-tools/verification-helper
     - ライブラリの CI をするやつ

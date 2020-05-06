@@ -1,8 +1,9 @@
-#load "../../Library/Collections/Fenwick.csx"
+#r "./../../bin/complib.dll"
 #pragma PROBLEM https://judge.yosupo.jp/problem/point_add_range_sum
 
 using System;
 using System.Collections.Generic;
+using CompLib.Collections;
 
 int[] read() => Console.ReadLine().Split().Select(int.Parse).ToArray();
 
