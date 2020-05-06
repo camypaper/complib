@@ -23,6 +23,8 @@ jobs:
     - name: Install dependencies (C#)
       run: dotnet tool install -g dotnet-script && echo ::add-path::$HOME/.dotnet/tools
 
+    - name: Build Library (Complib)
+      run: dotnet build -o ./bin -c Release
 
     - name: Run tests
       env:
