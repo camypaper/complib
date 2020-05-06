@@ -27,7 +27,7 @@ namespace CompLib.Collections {
 				}
 			return x + 1;
 		}
-		/// <summary>Add <paramref name="v"/> to bit[<paramref name="i"/>](1-indexed)</summary>
+		/// <summary>Add <paramref name="v"/> to bit[<paramref name="i"/>] (1-indexed)</summary>
 		public void Add(int i, Number v) {
 			for (; i < bit.Length; i += i & -i) bit[i] += v;
 		}
