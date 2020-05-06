@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 #region PrimeSieve
 public static partial class MathEx {
 	/// <summary>
@@ -18,7 +19,7 @@ public static partial class MathEx {
 	/// </summary>
 	public static List<int> SieveList(int N) {
 		var res = Sieve(N);
-		var ret = new System.Collections.Generic.List<int>();
+		var ret = new List<int>();
 		for (int i = 0; i < res.Length; i++)
 			if (res[i]) ret.Add(i);
 		return ret;

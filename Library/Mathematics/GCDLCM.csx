@@ -1,3 +1,5 @@
+using System;
+
 #region GCD LCM
 public static partial class MathEx {
 	/// <summary>
