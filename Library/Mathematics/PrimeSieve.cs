@@ -3,8 +3,7 @@ namespace CompLib.Mathematics {
 	#region PrimeSieve
 	public static partial class MathEx {
 		/// <summary>
-		/// エラトステネスの篩により、1 ~ N までの整数が素数かどうかを求めます。
-		/// O(N loglog N) で実行されます
+		/// Finding all the prime numbers in <c>[1,n]</c>. Time complexity: <c>O(N loglog N)</c>
 		/// </summary>
 		public static bool[] Sieve(int N) {
 			var ret = new bool[N + 1];
@@ -15,8 +14,7 @@ namespace CompLib.Mathematics {
 			return ret;
 		}
 		/// <summary>
-		/// エラトステネスの篩により、1 ~ N までの整数が素数かどうかを求め、素数のみの一覧を返します。
-		/// O(N loglog N) で実行されます
+		/// Enumerate all the prime numbers in <c>[1,n]</c>. Time complexity: <c>O(N loglog N)</c>
 		/// </summary>
 		public static List<int> SieveList(int N) {
 			var res = Sieve(N);

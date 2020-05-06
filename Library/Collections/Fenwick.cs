@@ -13,10 +13,10 @@ namespace CompLib.Collections {
 		}
 		/// <summary>Sum of <c>bit[i, j]</c>. Time complexity: <c>O(log N)</c></summary>
 		public Number this[int i, int j] { get { return this[j] - this[i - 1]; } }
-		/// <summary>Sum of <c>bit[0, i]</c>. Time complexity: <c>O(log N)</summary>
+		/// <summary>Sum of <c>bit[0, i]</c>. Time complexity: <c>O(log N)</c></summary>
 		public Number this[int i] { get { Number s = 0; for (; i > 0; i -= i & -i) s += bit[i]; return s; } }
 
-		/// <summary>Returns the smallest <c>i</c> such that <c>bit[0, i] >= w<c>. <c>bit[i]</c> must be non-negative. Time complexity: <c>O(log N)</summary>
+		/// <summary>Returns the smallest <c>i</c> such that <c>bit[0, i] >= w</c>. <c>bit[i]</c> must be non-negative. Time complexity: <c>O(log N)</c></summary>
 		public int LowerBound(Number w) {
 			if (w <= 0) return 0;
 			int x = 0;
@@ -27,7 +27,7 @@ namespace CompLib.Collections {
 				}
 			return x + 1;
 		}
-		/// <summary>Add <paramref name="v"/> to <c>bit[i]</c>(1-indexed). Time complexity: <c>O(log N)</summary>
+		/// <summary>Add <paramref name="v"/> to <c>bit[i]</c>(1-indexed). Time complexity: <c>O(log N)</c></summary>
 		public void Add(int i, Number v) {
 			for (; i < bit.Length; i += i & -i) bit[i] += v;
 		}
@@ -52,14 +52,14 @@ namespace CompLib.Collections {
 			a = new FenwickTree(n);
 			b = new FenwickTree(n);
 		}
-		/// <summary>Add <paramref name="v"/> to <c>bit[i, j]</c>(1-indexed). Time complexity: <c>O(log N)</summary>
+		/// <summary>Add <paramref name="v"/> to <c>bit[i, j]</c>(1-indexed). Time complexity: <c>O(log N)</c></summary>
 		public void Add(int i, int j, Number v) {
 			a.Add(i, -(i - 1) * v); a.Add(j + 1, j * v);
 			b.Add(i, v); b.Add(j + 1, -v);
 		}
-		/// <summary>Sum of <c>bit[0, i]</c>. Time complexity: <c>O(log N)</summary>
+		/// <summary>Sum of <c>bit[0, i]</c>. Time complexity: <c>O(log N)</c></summary>
 		public Number this[int i] { get { return a[i] + b[i] * i; } }
-		/// <summary>Sum of <c>bit[i, j]</c>. Time complexity: <c>O(log N)</summary>
+		/// <summary>Sum of <c>bit[i, j]</c>. Time complexity: <c>O(log N)</c></summary>
 		public Number this[int i, int j] { get { return this[j] - this[i - 1]; } }
 		/// <summary>Enumerate <c>bit</c>. Time complexity: <c>O(N log N)</c></summary>
 		public Number[] Items {

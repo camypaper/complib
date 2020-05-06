@@ -4,6 +4,7 @@ namespace CompLib.Graph {
 	#region HLTree
 	public class HLTree {
 		int n;
+		/// <summary>Adjacency list</summary>
 		public List<int>[] G;
 		int[] sz, par, d;
 		/// <summary><c>L[i]</c> is the position of <c>i</c> in pre-order </summary>
