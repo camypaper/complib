@@ -3,6 +3,7 @@
 
 using System;
 using System.Collections.Generic;
+using CompLib.Mathematics;
 
 var nab = Console.ReadLine().Split().Select(int.Parse).ToArray();
 var (n, a, b) = (nab[0], nab[1], nab[2]);
