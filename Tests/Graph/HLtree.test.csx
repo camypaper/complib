@@ -2,6 +2,7 @@
 #pragma PROBLEM https://judge.yosupo.jp/problem/lca
 using System;
 using System.Collections.Generic;
+using CompLib.Graph;
 
 var nq = Console.ReadLine().Split().Select(int.Parse).ToArray();
 var (n, q) = (nq[0], nq[1]);

@@ -3,6 +3,7 @@
 
 using System;
 using System.Collections.Generic;
+using CompLib.Mathematics;
 
 var n = int.Parse(Console.ReadLine());
 var a = Console.ReadLine().Split().Select(int.Parse).ToArray();
