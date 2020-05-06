@@ -1,0 +1,27 @@
+name: documentation
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        ref: doc
+    - name: Update document
+      run: |
+        git config --global user.name "GitHub"
+        git config --global user.email "noreply@github.com"
+        git submodule update --remote
+        git add complib
+        git commit -m "[Auto Generated] Update document $GITHUB_SHA"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: doc
