@@ -39,7 +39,7 @@ namespace CompLib.Collections {
 				var l = pos << 1;
 				var r = l + 1;
 				if (r < heap.Count && cmp(heap[r], heap[l]) < 0) l = r;
-				if (cmp(heap[lch], x) >= 0) break;
+				if (cmp(heap[l], x) >= 0) break;
 				heap[pos] = heap[l];
 				pos = l;
 			}
