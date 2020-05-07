@@ -34,14 +34,16 @@ namespace CompLib.Collections {
 		public T Dequeue() {
 			var ret = Peek();
 			var pos = 1;
+			var x = heap[heap.Count - 1];
 			while (pos << 1 < heap.Count) {
 				var l = pos << 1;
 				var r = l + 1;
 				if (r < heap.Count && cmp(heap[r], heap[l]) < 0) l = r;
+				if (cmp(heap[lch], x) >= 0) break;
 				heap[pos] = heap[l];
 				pos = l;
 			}
-			heap[pos] = heap[heap.Count - 1];
+			heap[pos] = x;
 			heap.RemoveAt(heap.Count - 1);
 			return ret;
 
