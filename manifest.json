@@ -1,0 +1,428 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.DisjointSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.DisjointSet.html",
+          "hash": "NyoORqCFLBODtBMgXpLsEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.FenwickTree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.FenwickTree.html",
+          "hash": "MCJhb0NscZxGH03E/v3EcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.HashMap-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.HashMap-2.html",
+          "hash": "EkWtapv7vDmxC++Bl/YCYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.IData-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.IData-1.html",
+          "hash": "5SDWCcQwSGIvuZH1DU/vRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.ILazyData-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.ILazyData-2.html",
+          "hash": "IIzNOkBc8WeVwJTn0wByBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.LazyPropagationSegmentTree-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.LazyPropagationSegmentTree-3.html",
+          "hash": "p3ZTT/6xTNus/Ajiayho1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.MaxData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.MaxData.html",
+          "hash": "H4GFgtpXVW7fJ/c3Oe/ERA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.MinData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.MinData.html",
+          "hash": "pF13WlxvW/xToRS7VCVmvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.PriorityQueue-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.PriorityQueue-1.html",
+          "hash": "cgOdH5ZU90qHOV9rUh0r+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.RangeAddFenwickTree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.RangeAddFenwickTree.html",
+          "hash": "6avqwI1u5eABbU/ZeoJChw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.RollbackDisjointSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.RollbackDisjointSet.html",
+          "hash": "OY2bnQjWdjkBiiXYdPgZyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.SegmentTree-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.SegmentTree-2.html",
+          "hash": "2KYkIgLyrYM8afTzkKrm/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.Set-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.Set-1.html",
+          "hash": "4yEGyJPcbYUmNjmYLXppdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.SetSum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.SetSum.html",
+          "hash": "mgwle40cXxvugGopGr17Mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.SetSumTree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.SetSumTree.html",
+          "hash": "PR467kJ1IYpFNQ6hmF8EoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.SortedMap-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.SortedMap-2.html",
+          "hash": "C5h6sV7rg9JMXcGN1zIJCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.StarrySkyTree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.StarrySkyTree.html",
+          "hash": "DZZkHiq/xtvHp9ZytAyVbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.StarySky.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.StarySky.html",
+          "hash": "pGhdERLrX7xdKF22v/U0RQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Collections.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Collections.html",
+          "hash": "iW2RUttYDzHEK5no+haMNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Graph.HLTree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Graph.HLTree.html",
+          "hash": "FLml/ShGNehsQSTjjnJxzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Graph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Graph.html",
+          "hash": "ThjywiKqqtk5TP+Hsin73w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Mathematics.MathEx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Mathematics.MathEx.html",
+          "hash": "VLxzZCZ4mCXVzxOO2kJbKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Mathematics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Mathematics.html",
+          "hash": "Rug/N1m3oBu8cLjUW311mA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Misc.Algorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Misc.Algorithm.html",
+          "hash": "hyKfPW5N00bcD2Dp/Q9QXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Misc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Misc.html",
+          "hash": "S1r6jwiElWINZMLAeyOGog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Strings.StringEx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Strings.StringEx.html",
+          "hash": "rk4XAWKfDjfbo1baHPzBtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CompLib.Strings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CompLib.Strings.html",
+          "hash": "i3rDqAOefwm0wXmcu3CcAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "IpASQelcvCEoyUfFGJMFaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "1AVNuXfsTT7EkTg9CIWpCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "awGuCQmk526ALT4h1jsaRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "1Xdjw8Ib7j95/TiJDj+CFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 27,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

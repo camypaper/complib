@@ -1,0 +1,1694 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CompLib.Collections
+  name: CompLib.Collections
+  href: api/CompLib.Collections.html
+  commentId: N:CompLib.Collections
+  fullName: CompLib.Collections
+  nameWithType: CompLib.Collections
+- uid: CompLib.Collections.DisjointSet
+  name: DisjointSet
+  href: api/CompLib.Collections.DisjointSet.html
+  commentId: T:CompLib.Collections.DisjointSet
+  fullName: CompLib.Collections.DisjointSet
+  nameWithType: DisjointSet
+- uid: CompLib.Collections.DisjointSet.#ctor(System.Int32)
+  name: DisjointSet(Int32)
+  href: api/CompLib.Collections.DisjointSet.html#CompLib_Collections_DisjointSet__ctor_System_Int32_
+  commentId: M:CompLib.Collections.DisjointSet.#ctor(System.Int32)
+  fullName: CompLib.Collections.DisjointSet.DisjointSet(System.Int32)
+  nameWithType: DisjointSet.DisjointSet(Int32)
+- uid: CompLib.Collections.DisjointSet.#ctor*
+  name: DisjointSet
+  href: api/CompLib.Collections.DisjointSet.html#CompLib_Collections_DisjointSet__ctor_
+  commentId: Overload:CompLib.Collections.DisjointSet.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.DisjointSet.DisjointSet
+  nameWithType: DisjointSet.DisjointSet
+- uid: CompLib.Collections.DisjointSet.Item(System.Int32)
+  name: Item[Int32]
+  href: api/CompLib.Collections.DisjointSet.html#CompLib_Collections_DisjointSet_Item_System_Int32_
+  commentId: P:CompLib.Collections.DisjointSet.Item(System.Int32)
+  name.vb: Item(Int32)
+  fullName: CompLib.Collections.DisjointSet.Item[System.Int32]
+  fullName.vb: CompLib.Collections.DisjointSet.Item(System.Int32)
+  nameWithType: DisjointSet.Item[Int32]
+  nameWithType.vb: DisjointSet.Item(Int32)
+- uid: CompLib.Collections.DisjointSet.Item*
+  name: Item
+  href: api/CompLib.Collections.DisjointSet.html#CompLib_Collections_DisjointSet_Item_
+  commentId: Overload:CompLib.Collections.DisjointSet.Item
+  isSpec: "True"
+  fullName: CompLib.Collections.DisjointSet.Item
+  nameWithType: DisjointSet.Item
+- uid: CompLib.Collections.DisjointSet.Same(System.Int32,System.Int32)
+  name: Same(Int32, Int32)
+  href: api/CompLib.Collections.DisjointSet.html#CompLib_Collections_DisjointSet_Same_System_Int32_System_Int32_
+  commentId: M:CompLib.Collections.DisjointSet.Same(System.Int32,System.Int32)
+  fullName: CompLib.Collections.DisjointSet.Same(System.Int32, System.Int32)
+  nameWithType: DisjointSet.Same(Int32, Int32)
+- uid: CompLib.Collections.DisjointSet.Same*
+  name: Same
+  href: api/CompLib.Collections.DisjointSet.html#CompLib_Collections_DisjointSet_Same_
+  commentId: Overload:CompLib.Collections.DisjointSet.Same
+  isSpec: "True"
+  fullName: CompLib.Collections.DisjointSet.Same
+  nameWithType: DisjointSet.Same
+- uid: CompLib.Collections.DisjointSet.Size(System.Int32)
+  name: Size(Int32)
+  href: api/CompLib.Collections.DisjointSet.html#CompLib_Collections_DisjointSet_Size_System_Int32_
+  commentId: M:CompLib.Collections.DisjointSet.Size(System.Int32)
+  fullName: CompLib.Collections.DisjointSet.Size(System.Int32)
+  nameWithType: DisjointSet.Size(Int32)
+- uid: CompLib.Collections.DisjointSet.Size*
+  name: Size
+  href: api/CompLib.Collections.DisjointSet.html#CompLib_Collections_DisjointSet_Size_
+  commentId: Overload:CompLib.Collections.DisjointSet.Size
+  isSpec: "True"
+  fullName: CompLib.Collections.DisjointSet.Size
+  nameWithType: DisjointSet.Size
+- uid: CompLib.Collections.DisjointSet.Unite(System.Int32,System.Int32)
+  name: Unite(Int32, Int32)
+  href: api/CompLib.Collections.DisjointSet.html#CompLib_Collections_DisjointSet_Unite_System_Int32_System_Int32_
+  commentId: M:CompLib.Collections.DisjointSet.Unite(System.Int32,System.Int32)
+  fullName: CompLib.Collections.DisjointSet.Unite(System.Int32, System.Int32)
+  nameWithType: DisjointSet.Unite(Int32, Int32)
+- uid: CompLib.Collections.DisjointSet.Unite*
+  name: Unite
+  href: api/CompLib.Collections.DisjointSet.html#CompLib_Collections_DisjointSet_Unite_
+  commentId: Overload:CompLib.Collections.DisjointSet.Unite
+  isSpec: "True"
+  fullName: CompLib.Collections.DisjointSet.Unite
+  nameWithType: DisjointSet.Unite
+- uid: CompLib.Collections.FenwickTree
+  name: FenwickTree
+  href: api/CompLib.Collections.FenwickTree.html
+  commentId: T:CompLib.Collections.FenwickTree
+  fullName: CompLib.Collections.FenwickTree
+  nameWithType: FenwickTree
+- uid: CompLib.Collections.FenwickTree.#ctor(System.Int32)
+  name: FenwickTree(Int32)
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree__ctor_System_Int32_
+  commentId: M:CompLib.Collections.FenwickTree.#ctor(System.Int32)
+  fullName: CompLib.Collections.FenwickTree.FenwickTree(System.Int32)
+  nameWithType: FenwickTree.FenwickTree(Int32)
+- uid: CompLib.Collections.FenwickTree.#ctor*
+  name: FenwickTree
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree__ctor_
+  commentId: Overload:CompLib.Collections.FenwickTree.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.FenwickTree.FenwickTree
+  nameWithType: FenwickTree.FenwickTree
+- uid: CompLib.Collections.FenwickTree.Add(System.Int32,System.Int64)
+  name: Add(Int32, System.Int64)
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree_Add_System_Int32_System_Int64_
+  commentId: M:CompLib.Collections.FenwickTree.Add(System.Int32,System.Int64)
+  fullName: CompLib.Collections.FenwickTree.Add(System.Int32, System.Int64)
+  nameWithType: FenwickTree.Add(Int32, System.Int64)
+- uid: CompLib.Collections.FenwickTree.Add*
+  name: Add
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree_Add_
+  commentId: Overload:CompLib.Collections.FenwickTree.Add
+  isSpec: "True"
+  fullName: CompLib.Collections.FenwickTree.Add
+  nameWithType: FenwickTree.Add
+- uid: CompLib.Collections.FenwickTree.Item(System.Int32)
+  name: Item[Int32]
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree_Item_System_Int32_
+  commentId: P:CompLib.Collections.FenwickTree.Item(System.Int32)
+  name.vb: Item(Int32)
+  fullName: CompLib.Collections.FenwickTree.Item[System.Int32]
+  fullName.vb: CompLib.Collections.FenwickTree.Item(System.Int32)
+  nameWithType: FenwickTree.Item[Int32]
+  nameWithType.vb: FenwickTree.Item(Int32)
+- uid: CompLib.Collections.FenwickTree.Item(System.Int32,System.Int32)
+  name: Item[Int32, Int32]
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree_Item_System_Int32_System_Int32_
+  commentId: P:CompLib.Collections.FenwickTree.Item(System.Int32,System.Int32)
+  name.vb: Item(Int32, Int32)
+  fullName: CompLib.Collections.FenwickTree.Item[System.Int32, System.Int32]
+  fullName.vb: CompLib.Collections.FenwickTree.Item(System.Int32, System.Int32)
+  nameWithType: FenwickTree.Item[Int32, Int32]
+  nameWithType.vb: FenwickTree.Item(Int32, Int32)
+- uid: CompLib.Collections.FenwickTree.Item*
+  name: Item
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree_Item_
+  commentId: Overload:CompLib.Collections.FenwickTree.Item
+  isSpec: "True"
+  fullName: CompLib.Collections.FenwickTree.Item
+  nameWithType: FenwickTree.Item
+- uid: CompLib.Collections.FenwickTree.Items
+  name: Items
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree_Items
+  commentId: P:CompLib.Collections.FenwickTree.Items
+  fullName: CompLib.Collections.FenwickTree.Items
+  nameWithType: FenwickTree.Items
+- uid: CompLib.Collections.FenwickTree.Items*
+  name: Items
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree_Items_
+  commentId: Overload:CompLib.Collections.FenwickTree.Items
+  isSpec: "True"
+  fullName: CompLib.Collections.FenwickTree.Items
+  nameWithType: FenwickTree.Items
+- uid: CompLib.Collections.FenwickTree.LowerBound(System.Int64)
+  name: LowerBound(System.Int64)
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree_LowerBound_System_Int64_
+  commentId: M:CompLib.Collections.FenwickTree.LowerBound(System.Int64)
+  fullName: CompLib.Collections.FenwickTree.LowerBound(System.Int64)
+  nameWithType: FenwickTree.LowerBound(System.Int64)
+- uid: CompLib.Collections.FenwickTree.LowerBound*
+  name: LowerBound
+  href: api/CompLib.Collections.FenwickTree.html#CompLib_Collections_FenwickTree_LowerBound_
+  commentId: Overload:CompLib.Collections.FenwickTree.LowerBound
+  isSpec: "True"
+  fullName: CompLib.Collections.FenwickTree.LowerBound
+  nameWithType: FenwickTree.LowerBound
+- uid: CompLib.Collections.HashMap`2
+  name: HashMap<K, V>
+  href: api/CompLib.Collections.HashMap-2.html
+  commentId: T:CompLib.Collections.HashMap`2
+  name.vb: HashMap(Of K, V)
+  fullName: CompLib.Collections.HashMap<K, V>
+  fullName.vb: CompLib.Collections.HashMap(Of K, V)
+  nameWithType: HashMap<K, V>
+  nameWithType.vb: HashMap(Of K, V)
+- uid: CompLib.Collections.HashMap`2.#ctor
+  name: HashMap()
+  href: api/CompLib.Collections.HashMap-2.html#CompLib_Collections_HashMap_2__ctor
+  commentId: M:CompLib.Collections.HashMap`2.#ctor
+  fullName: CompLib.Collections.HashMap<K, V>.HashMap()
+  fullName.vb: CompLib.Collections.HashMap(Of K, V).HashMap()
+  nameWithType: HashMap<K, V>.HashMap()
+  nameWithType.vb: HashMap(Of K, V).HashMap()
+- uid: CompLib.Collections.HashMap`2.#ctor(System.Int32)
+  name: HashMap(Int32)
+  href: api/CompLib.Collections.HashMap-2.html#CompLib_Collections_HashMap_2__ctor_System_Int32_
+  commentId: M:CompLib.Collections.HashMap`2.#ctor(System.Int32)
+  fullName: CompLib.Collections.HashMap<K, V>.HashMap(System.Int32)
+  fullName.vb: CompLib.Collections.HashMap(Of K, V).HashMap(System.Int32)
+  nameWithType: HashMap<K, V>.HashMap(Int32)
+  nameWithType.vb: HashMap(Of K, V).HashMap(Int32)
+- uid: CompLib.Collections.HashMap`2.#ctor*
+  name: HashMap
+  href: api/CompLib.Collections.HashMap-2.html#CompLib_Collections_HashMap_2__ctor_
+  commentId: Overload:CompLib.Collections.HashMap`2.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.HashMap<K, V>.HashMap
+  fullName.vb: CompLib.Collections.HashMap(Of K, V).HashMap
+  nameWithType: HashMap<K, V>.HashMap
+  nameWithType.vb: HashMap(Of K, V).HashMap
+- uid: CompLib.Collections.HashMap`2.Item(`0)
+  name: Item[K]
+  href: api/CompLib.Collections.HashMap-2.html#CompLib_Collections_HashMap_2_Item__0_
+  commentId: P:CompLib.Collections.HashMap`2.Item(`0)
+  name.vb: Item(K)
+  fullName: CompLib.Collections.HashMap<K, V>.Item[K]
+  fullName.vb: CompLib.Collections.HashMap(Of K, V).Item(K)
+  nameWithType: HashMap<K, V>.Item[K]
+  nameWithType.vb: HashMap(Of K, V).Item(K)
+- uid: CompLib.Collections.HashMap`2.Item*
+  name: Item
+  href: api/CompLib.Collections.HashMap-2.html#CompLib_Collections_HashMap_2_Item_
+  commentId: Overload:CompLib.Collections.HashMap`2.Item
+  isSpec: "True"
+  fullName: CompLib.Collections.HashMap<K, V>.Item
+  fullName.vb: CompLib.Collections.HashMap(Of K, V).Item
+  nameWithType: HashMap<K, V>.Item
+  nameWithType.vb: HashMap(Of K, V).Item
+- uid: CompLib.Collections.IData`1
+  name: IData<T>
+  href: api/CompLib.Collections.IData-1.html
+  commentId: T:CompLib.Collections.IData`1
+  name.vb: IData(Of T)
+  fullName: CompLib.Collections.IData<T>
+  fullName.vb: CompLib.Collections.IData(Of T)
+  nameWithType: IData<T>
+  nameWithType.vb: IData(Of T)
+- uid: CompLib.Collections.IData`1.Identity
+  name: Identity
+  href: api/CompLib.Collections.IData-1.html#CompLib_Collections_IData_1_Identity
+  commentId: P:CompLib.Collections.IData`1.Identity
+  fullName: CompLib.Collections.IData<T>.Identity
+  fullName.vb: CompLib.Collections.IData(Of T).Identity
+  nameWithType: IData<T>.Identity
+  nameWithType.vb: IData(Of T).Identity
+- uid: CompLib.Collections.IData`1.Identity*
+  name: Identity
+  href: api/CompLib.Collections.IData-1.html#CompLib_Collections_IData_1_Identity_
+  commentId: Overload:CompLib.Collections.IData`1.Identity
+  isSpec: "True"
+  fullName: CompLib.Collections.IData<T>.Identity
+  fullName.vb: CompLib.Collections.IData(Of T).Identity
+  nameWithType: IData<T>.Identity
+  nameWithType.vb: IData(Of T).Identity
+- uid: CompLib.Collections.IData`1.Merge(`0,`0)
+  name: Merge(T, T)
+  href: api/CompLib.Collections.IData-1.html#CompLib_Collections_IData_1_Merge__0__0_
+  commentId: M:CompLib.Collections.IData`1.Merge(`0,`0)
+  fullName: CompLib.Collections.IData<T>.Merge(T, T)
+  fullName.vb: CompLib.Collections.IData(Of T).Merge(T, T)
+  nameWithType: IData<T>.Merge(T, T)
+  nameWithType.vb: IData(Of T).Merge(T, T)
+- uid: CompLib.Collections.IData`1.Merge*
+  name: Merge
+  href: api/CompLib.Collections.IData-1.html#CompLib_Collections_IData_1_Merge_
+  commentId: Overload:CompLib.Collections.IData`1.Merge
+  isSpec: "True"
+  fullName: CompLib.Collections.IData<T>.Merge
+  fullName.vb: CompLib.Collections.IData(Of T).Merge
+  nameWithType: IData<T>.Merge
+  nameWithType.vb: IData(Of T).Merge
+- uid: CompLib.Collections.ILazyData`2
+  name: ILazyData<T1, T2>
+  href: api/CompLib.Collections.ILazyData-2.html
+  commentId: T:CompLib.Collections.ILazyData`2
+  name.vb: ILazyData(Of T1, T2)
+  fullName: CompLib.Collections.ILazyData<T1, T2>
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2)
+  nameWithType: ILazyData<T1, T2>
+  nameWithType.vb: ILazyData(Of T1, T2)
+- uid: CompLib.Collections.ILazyData`2.Apply(System.Int32,System.Int32,`0,`1)
+  name: Apply(Int32, Int32, T1, T2)
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_Apply_System_Int32_System_Int32__0__1_
+  commentId: M:CompLib.Collections.ILazyData`2.Apply(System.Int32,System.Int32,`0,`1)
+  fullName: CompLib.Collections.ILazyData<T1, T2>.Apply(System.Int32, System.Int32, T1, T2)
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).Apply(System.Int32, System.Int32, T1, T2)
+  nameWithType: ILazyData<T1, T2>.Apply(Int32, Int32, T1, T2)
+  nameWithType.vb: ILazyData(Of T1, T2).Apply(Int32, Int32, T1, T2)
+- uid: CompLib.Collections.ILazyData`2.Apply*
+  name: Apply
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_Apply_
+  commentId: Overload:CompLib.Collections.ILazyData`2.Apply
+  isSpec: "True"
+  fullName: CompLib.Collections.ILazyData<T1, T2>.Apply
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).Apply
+  nameWithType: ILazyData<T1, T2>.Apply
+  nameWithType.vb: ILazyData(Of T1, T2).Apply
+- uid: CompLib.Collections.ILazyData`2.Identity
+  name: Identity
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_Identity
+  commentId: P:CompLib.Collections.ILazyData`2.Identity
+  fullName: CompLib.Collections.ILazyData<T1, T2>.Identity
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).Identity
+  nameWithType: ILazyData<T1, T2>.Identity
+  nameWithType.vb: ILazyData(Of T1, T2).Identity
+- uid: CompLib.Collections.ILazyData`2.Identity*
+  name: Identity
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_Identity_
+  commentId: Overload:CompLib.Collections.ILazyData`2.Identity
+  isSpec: "True"
+  fullName: CompLib.Collections.ILazyData<T1, T2>.Identity
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).Identity
+  nameWithType: ILazyData<T1, T2>.Identity
+  nameWithType.vb: ILazyData(Of T1, T2).Identity
+- uid: CompLib.Collections.ILazyData`2.InitValue
+  name: InitValue
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_InitValue
+  commentId: P:CompLib.Collections.ILazyData`2.InitValue
+  fullName: CompLib.Collections.ILazyData<T1, T2>.InitValue
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).InitValue
+  nameWithType: ILazyData<T1, T2>.InitValue
+  nameWithType.vb: ILazyData(Of T1, T2).InitValue
+- uid: CompLib.Collections.ILazyData`2.InitValue*
+  name: InitValue
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_InitValue_
+  commentId: Overload:CompLib.Collections.ILazyData`2.InitValue
+  isSpec: "True"
+  fullName: CompLib.Collections.ILazyData<T1, T2>.InitValue
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).InitValue
+  nameWithType: ILazyData<T1, T2>.InitValue
+  nameWithType.vb: ILazyData(Of T1, T2).InitValue
+- uid: CompLib.Collections.ILazyData`2.Merge(`0,`0)
+  name: Merge(T1, T1)
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_Merge__0__0_
+  commentId: M:CompLib.Collections.ILazyData`2.Merge(`0,`0)
+  fullName: CompLib.Collections.ILazyData<T1, T2>.Merge(T1, T1)
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).Merge(T1, T1)
+  nameWithType: ILazyData<T1, T2>.Merge(T1, T1)
+  nameWithType.vb: ILazyData(Of T1, T2).Merge(T1, T1)
+- uid: CompLib.Collections.ILazyData`2.Merge*
+  name: Merge
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_Merge_
+  commentId: Overload:CompLib.Collections.ILazyData`2.Merge
+  isSpec: "True"
+  fullName: CompLib.Collections.ILazyData<T1, T2>.Merge
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).Merge
+  nameWithType: ILazyData<T1, T2>.Merge
+  nameWithType.vb: ILazyData(Of T1, T2).Merge
+- uid: CompLib.Collections.ILazyData`2.Push(`1,`1)
+  name: Push(T2, T2)
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_Push__1__1_
+  commentId: M:CompLib.Collections.ILazyData`2.Push(`1,`1)
+  fullName: CompLib.Collections.ILazyData<T1, T2>.Push(T2, T2)
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).Push(T2, T2)
+  nameWithType: ILazyData<T1, T2>.Push(T2, T2)
+  nameWithType.vb: ILazyData(Of T1, T2).Push(T2, T2)
+- uid: CompLib.Collections.ILazyData`2.Push*
+  name: Push
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_Push_
+  commentId: Overload:CompLib.Collections.ILazyData`2.Push
+  isSpec: "True"
+  fullName: CompLib.Collections.ILazyData<T1, T2>.Push
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).Push
+  nameWithType: ILazyData<T1, T2>.Push
+  nameWithType.vb: ILazyData(Of T1, T2).Push
+- uid: CompLib.Collections.ILazyData`2.Zero
+  name: Zero
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_Zero
+  commentId: P:CompLib.Collections.ILazyData`2.Zero
+  fullName: CompLib.Collections.ILazyData<T1, T2>.Zero
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).Zero
+  nameWithType: ILazyData<T1, T2>.Zero
+  nameWithType.vb: ILazyData(Of T1, T2).Zero
+- uid: CompLib.Collections.ILazyData`2.Zero*
+  name: Zero
+  href: api/CompLib.Collections.ILazyData-2.html#CompLib_Collections_ILazyData_2_Zero_
+  commentId: Overload:CompLib.Collections.ILazyData`2.Zero
+  isSpec: "True"
+  fullName: CompLib.Collections.ILazyData<T1, T2>.Zero
+  fullName.vb: CompLib.Collections.ILazyData(Of T1, T2).Zero
+  nameWithType: ILazyData<T1, T2>.Zero
+  nameWithType.vb: ILazyData(Of T1, T2).Zero
+- uid: CompLib.Collections.LazyPropagationSegmentTree`3
+  name: LazyPropagationSegmentTree<T1, T2, U>
+  href: api/CompLib.Collections.LazyPropagationSegmentTree-3.html
+  commentId: T:CompLib.Collections.LazyPropagationSegmentTree`3
+  name.vb: LazyPropagationSegmentTree(Of T1, T2, U)
+  fullName: CompLib.Collections.LazyPropagationSegmentTree<T1, T2, U>
+  fullName.vb: CompLib.Collections.LazyPropagationSegmentTree(Of T1, T2, U)
+  nameWithType: LazyPropagationSegmentTree<T1, T2, U>
+  nameWithType.vb: LazyPropagationSegmentTree(Of T1, T2, U)
+- uid: CompLib.Collections.LazyPropagationSegmentTree`3.#ctor(`0[])
+  name: LazyPropagationSegmentTree(T1[])
+  href: api/CompLib.Collections.LazyPropagationSegmentTree-3.html#CompLib_Collections_LazyPropagationSegmentTree_3__ctor__0___
+  commentId: M:CompLib.Collections.LazyPropagationSegmentTree`3.#ctor(`0[])
+  name.vb: LazyPropagationSegmentTree(T1())
+  fullName: CompLib.Collections.LazyPropagationSegmentTree<T1, T2, U>.LazyPropagationSegmentTree(T1[])
+  fullName.vb: CompLib.Collections.LazyPropagationSegmentTree(Of T1, T2, U).LazyPropagationSegmentTree(T1())
+  nameWithType: LazyPropagationSegmentTree<T1, T2, U>.LazyPropagationSegmentTree(T1[])
+  nameWithType.vb: LazyPropagationSegmentTree(Of T1, T2, U).LazyPropagationSegmentTree(T1())
+- uid: CompLib.Collections.LazyPropagationSegmentTree`3.#ctor(System.Int32)
+  name: LazyPropagationSegmentTree(Int32)
+  href: api/CompLib.Collections.LazyPropagationSegmentTree-3.html#CompLib_Collections_LazyPropagationSegmentTree_3__ctor_System_Int32_
+  commentId: M:CompLib.Collections.LazyPropagationSegmentTree`3.#ctor(System.Int32)
+  fullName: CompLib.Collections.LazyPropagationSegmentTree<T1, T2, U>.LazyPropagationSegmentTree(System.Int32)
+  fullName.vb: CompLib.Collections.LazyPropagationSegmentTree(Of T1, T2, U).LazyPropagationSegmentTree(System.Int32)
+  nameWithType: LazyPropagationSegmentTree<T1, T2, U>.LazyPropagationSegmentTree(Int32)
+  nameWithType.vb: LazyPropagationSegmentTree(Of T1, T2, U).LazyPropagationSegmentTree(Int32)
+- uid: CompLib.Collections.LazyPropagationSegmentTree`3.#ctor*
+  name: LazyPropagationSegmentTree
+  href: api/CompLib.Collections.LazyPropagationSegmentTree-3.html#CompLib_Collections_LazyPropagationSegmentTree_3__ctor_
+  commentId: Overload:CompLib.Collections.LazyPropagationSegmentTree`3.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.LazyPropagationSegmentTree<T1, T2, U>.LazyPropagationSegmentTree
+  fullName.vb: CompLib.Collections.LazyPropagationSegmentTree(Of T1, T2, U).LazyPropagationSegmentTree
+  nameWithType: LazyPropagationSegmentTree<T1, T2, U>.LazyPropagationSegmentTree
+  nameWithType.vb: LazyPropagationSegmentTree(Of T1, T2, U).LazyPropagationSegmentTree
+- uid: CompLib.Collections.LazyPropagationSegmentTree`3.Items
+  name: Items
+  href: api/CompLib.Collections.LazyPropagationSegmentTree-3.html#CompLib_Collections_LazyPropagationSegmentTree_3_Items
+  commentId: P:CompLib.Collections.LazyPropagationSegmentTree`3.Items
+  fullName: CompLib.Collections.LazyPropagationSegmentTree<T1, T2, U>.Items
+  fullName.vb: CompLib.Collections.LazyPropagationSegmentTree(Of T1, T2, U).Items
+  nameWithType: LazyPropagationSegmentTree<T1, T2, U>.Items
+  nameWithType.vb: LazyPropagationSegmentTree(Of T1, T2, U).Items
+- uid: CompLib.Collections.LazyPropagationSegmentTree`3.Items*
+  name: Items
+  href: api/CompLib.Collections.LazyPropagationSegmentTree-3.html#CompLib_Collections_LazyPropagationSegmentTree_3_Items_
+  commentId: Overload:CompLib.Collections.LazyPropagationSegmentTree`3.Items
+  isSpec: "True"
+  fullName: CompLib.Collections.LazyPropagationSegmentTree<T1, T2, U>.Items
+  fullName.vb: CompLib.Collections.LazyPropagationSegmentTree(Of T1, T2, U).Items
+  nameWithType: LazyPropagationSegmentTree<T1, T2, U>.Items
+  nameWithType.vb: LazyPropagationSegmentTree(Of T1, T2, U).Items
+- uid: CompLib.Collections.LazyPropagationSegmentTree`3.Push(System.Int32,System.Int32,`1)
+  name: Push(Int32, Int32, T2)
+  href: api/CompLib.Collections.LazyPropagationSegmentTree-3.html#CompLib_Collections_LazyPropagationSegmentTree_3_Push_System_Int32_System_Int32__1_
+  commentId: M:CompLib.Collections.LazyPropagationSegmentTree`3.Push(System.Int32,System.Int32,`1)
+  fullName: CompLib.Collections.LazyPropagationSegmentTree<T1, T2, U>.Push(System.Int32, System.Int32, T2)
+  fullName.vb: CompLib.Collections.LazyPropagationSegmentTree(Of T1, T2, U).Push(System.Int32, System.Int32, T2)
+  nameWithType: LazyPropagationSegmentTree<T1, T2, U>.Push(Int32, Int32, T2)
+  nameWithType.vb: LazyPropagationSegmentTree(Of T1, T2, U).Push(Int32, Int32, T2)
+- uid: CompLib.Collections.LazyPropagationSegmentTree`3.Push*
+  name: Push
+  href: api/CompLib.Collections.LazyPropagationSegmentTree-3.html#CompLib_Collections_LazyPropagationSegmentTree_3_Push_
+  commentId: Overload:CompLib.Collections.LazyPropagationSegmentTree`3.Push
+  isSpec: "True"
+  fullName: CompLib.Collections.LazyPropagationSegmentTree<T1, T2, U>.Push
+  fullName.vb: CompLib.Collections.LazyPropagationSegmentTree(Of T1, T2, U).Push
+  nameWithType: LazyPropagationSegmentTree<T1, T2, U>.Push
+  nameWithType.vb: LazyPropagationSegmentTree(Of T1, T2, U).Push
+- uid: CompLib.Collections.LazyPropagationSegmentTree`3.Query(System.Int32,System.Int32)
+  name: Query(Int32, Int32)
+  href: api/CompLib.Collections.LazyPropagationSegmentTree-3.html#CompLib_Collections_LazyPropagationSegmentTree_3_Query_System_Int32_System_Int32_
+  commentId: M:CompLib.Collections.LazyPropagationSegmentTree`3.Query(System.Int32,System.Int32)
+  fullName: CompLib.Collections.LazyPropagationSegmentTree<T1, T2, U>.Query(System.Int32, System.Int32)
+  fullName.vb: CompLib.Collections.LazyPropagationSegmentTree(Of T1, T2, U).Query(System.Int32, System.Int32)
+  nameWithType: LazyPropagationSegmentTree<T1, T2, U>.Query(Int32, Int32)
+  nameWithType.vb: LazyPropagationSegmentTree(Of T1, T2, U).Query(Int32, Int32)
+- uid: CompLib.Collections.LazyPropagationSegmentTree`3.Query*
+  name: Query
+  href: api/CompLib.Collections.LazyPropagationSegmentTree-3.html#CompLib_Collections_LazyPropagationSegmentTree_3_Query_
+  commentId: Overload:CompLib.Collections.LazyPropagationSegmentTree`3.Query
+  isSpec: "True"
+  fullName: CompLib.Collections.LazyPropagationSegmentTree<T1, T2, U>.Query
+  fullName.vb: CompLib.Collections.LazyPropagationSegmentTree(Of T1, T2, U).Query
+  nameWithType: LazyPropagationSegmentTree<T1, T2, U>.Query
+  nameWithType.vb: LazyPropagationSegmentTree(Of T1, T2, U).Query
+- uid: CompLib.Collections.MaxData
+  name: MaxData
+  href: api/CompLib.Collections.MaxData.html
+  commentId: T:CompLib.Collections.MaxData
+  fullName: CompLib.Collections.MaxData
+  nameWithType: MaxData
+- uid: CompLib.Collections.MaxData.Identity
+  name: Identity
+  href: api/CompLib.Collections.MaxData.html#CompLib_Collections_MaxData_Identity
+  commentId: P:CompLib.Collections.MaxData.Identity
+  fullName: CompLib.Collections.MaxData.Identity
+  nameWithType: MaxData.Identity
+- uid: CompLib.Collections.MaxData.Identity*
+  name: Identity
+  href: api/CompLib.Collections.MaxData.html#CompLib_Collections_MaxData_Identity_
+  commentId: Overload:CompLib.Collections.MaxData.Identity
+  isSpec: "True"
+  fullName: CompLib.Collections.MaxData.Identity
+  nameWithType: MaxData.Identity
+- uid: CompLib.Collections.MaxData.Merge(System.Int64,System.Int64)
+  name: Merge(Int64, Int64)
+  href: api/CompLib.Collections.MaxData.html#CompLib_Collections_MaxData_Merge_System_Int64_System_Int64_
+  commentId: M:CompLib.Collections.MaxData.Merge(System.Int64,System.Int64)
+  fullName: CompLib.Collections.MaxData.Merge(System.Int64, System.Int64)
+  nameWithType: MaxData.Merge(Int64, Int64)
+- uid: CompLib.Collections.MaxData.Merge*
+  name: Merge
+  href: api/CompLib.Collections.MaxData.html#CompLib_Collections_MaxData_Merge_
+  commentId: Overload:CompLib.Collections.MaxData.Merge
+  isSpec: "True"
+  fullName: CompLib.Collections.MaxData.Merge
+  nameWithType: MaxData.Merge
+- uid: CompLib.Collections.MinData
+  name: MinData
+  href: api/CompLib.Collections.MinData.html
+  commentId: T:CompLib.Collections.MinData
+  fullName: CompLib.Collections.MinData
+  nameWithType: MinData
+- uid: CompLib.Collections.MinData.Identity
+  name: Identity
+  href: api/CompLib.Collections.MinData.html#CompLib_Collections_MinData_Identity
+  commentId: P:CompLib.Collections.MinData.Identity
+  fullName: CompLib.Collections.MinData.Identity
+  nameWithType: MinData.Identity
+- uid: CompLib.Collections.MinData.Identity*
+  name: Identity
+  href: api/CompLib.Collections.MinData.html#CompLib_Collections_MinData_Identity_
+  commentId: Overload:CompLib.Collections.MinData.Identity
+  isSpec: "True"
+  fullName: CompLib.Collections.MinData.Identity
+  nameWithType: MinData.Identity
+- uid: CompLib.Collections.MinData.Merge(System.Int64,System.Int64)
+  name: Merge(Int64, Int64)
+  href: api/CompLib.Collections.MinData.html#CompLib_Collections_MinData_Merge_System_Int64_System_Int64_
+  commentId: M:CompLib.Collections.MinData.Merge(System.Int64,System.Int64)
+  fullName: CompLib.Collections.MinData.Merge(System.Int64, System.Int64)
+  nameWithType: MinData.Merge(Int64, Int64)
+- uid: CompLib.Collections.MinData.Merge*
+  name: Merge
+  href: api/CompLib.Collections.MinData.html#CompLib_Collections_MinData_Merge_
+  commentId: Overload:CompLib.Collections.MinData.Merge
+  isSpec: "True"
+  fullName: CompLib.Collections.MinData.Merge
+  nameWithType: MinData.Merge
+- uid: CompLib.Collections.PriorityQueue`1
+  name: PriorityQueue<T>
+  href: api/CompLib.Collections.PriorityQueue-1.html
+  commentId: T:CompLib.Collections.PriorityQueue`1
+  name.vb: PriorityQueue(Of T)
+  fullName: CompLib.Collections.PriorityQueue<T>
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T)
+  nameWithType: PriorityQueue<T>
+  nameWithType.vb: PriorityQueue(Of T)
+- uid: CompLib.Collections.PriorityQueue`1.#ctor
+  name: PriorityQueue()
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1__ctor
+  commentId: M:CompLib.Collections.PriorityQueue`1.#ctor
+  fullName: CompLib.Collections.PriorityQueue<T>.PriorityQueue()
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).PriorityQueue()
+  nameWithType: PriorityQueue<T>.PriorityQueue()
+  nameWithType.vb: PriorityQueue(Of T).PriorityQueue()
+- uid: CompLib.Collections.PriorityQueue`1.#ctor(Comparison{`0})
+  name: PriorityQueue(Comparison<T>)
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1__ctor_Comparison__0__
+  commentId: M:CompLib.Collections.PriorityQueue`1.#ctor(Comparison{`0})
+  name.vb: PriorityQueue(Comparison(Of T))
+  fullName: CompLib.Collections.PriorityQueue<T>.PriorityQueue(Comparison<T>)
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).PriorityQueue(Comparison(Of T))
+  nameWithType: PriorityQueue<T>.PriorityQueue(Comparison<T>)
+  nameWithType.vb: PriorityQueue(Of T).PriorityQueue(Comparison(Of T))
+- uid: CompLib.Collections.PriorityQueue`1.#ctor(IComparer{`0})
+  name: PriorityQueue(IComparer<T>)
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1__ctor_IComparer__0__
+  commentId: M:CompLib.Collections.PriorityQueue`1.#ctor(IComparer{`0})
+  name.vb: PriorityQueue(IComparer(Of T))
+  fullName: CompLib.Collections.PriorityQueue<T>.PriorityQueue(IComparer<T>)
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).PriorityQueue(IComparer(Of T))
+  nameWithType: PriorityQueue<T>.PriorityQueue(IComparer<T>)
+  nameWithType.vb: PriorityQueue(Of T).PriorityQueue(IComparer(Of T))
+- uid: CompLib.Collections.PriorityQueue`1.#ctor(System.Int32)
+  name: PriorityQueue(Int32)
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1__ctor_System_Int32_
+  commentId: M:CompLib.Collections.PriorityQueue`1.#ctor(System.Int32)
+  fullName: CompLib.Collections.PriorityQueue<T>.PriorityQueue(System.Int32)
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).PriorityQueue(System.Int32)
+  nameWithType: PriorityQueue<T>.PriorityQueue(Int32)
+  nameWithType.vb: PriorityQueue(Of T).PriorityQueue(Int32)
+- uid: CompLib.Collections.PriorityQueue`1.#ctor(System.Int32,Comparison{`0})
+  name: PriorityQueue(Int32, Comparison<T>)
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1__ctor_System_Int32_Comparison__0__
+  commentId: M:CompLib.Collections.PriorityQueue`1.#ctor(System.Int32,Comparison{`0})
+  name.vb: PriorityQueue(Int32, Comparison(Of T))
+  fullName: CompLib.Collections.PriorityQueue<T>.PriorityQueue(System.Int32, Comparison<T>)
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).PriorityQueue(System.Int32, Comparison(Of T))
+  nameWithType: PriorityQueue<T>.PriorityQueue(Int32, Comparison<T>)
+  nameWithType.vb: PriorityQueue(Of T).PriorityQueue(Int32, Comparison(Of T))
+- uid: CompLib.Collections.PriorityQueue`1.#ctor(System.Int32,IComparer{`0})
+  name: PriorityQueue(Int32, IComparer<T>)
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1__ctor_System_Int32_IComparer__0__
+  commentId: M:CompLib.Collections.PriorityQueue`1.#ctor(System.Int32,IComparer{`0})
+  name.vb: PriorityQueue(Int32, IComparer(Of T))
+  fullName: CompLib.Collections.PriorityQueue<T>.PriorityQueue(System.Int32, IComparer<T>)
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).PriorityQueue(System.Int32, IComparer(Of T))
+  nameWithType: PriorityQueue<T>.PriorityQueue(Int32, IComparer<T>)
+  nameWithType.vb: PriorityQueue(Of T).PriorityQueue(Int32, IComparer(Of T))
+- uid: CompLib.Collections.PriorityQueue`1.#ctor*
+  name: PriorityQueue
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1__ctor_
+  commentId: Overload:CompLib.Collections.PriorityQueue`1.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.PriorityQueue<T>.PriorityQueue
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).PriorityQueue
+  nameWithType: PriorityQueue<T>.PriorityQueue
+  nameWithType.vb: PriorityQueue(Of T).PriorityQueue
+- uid: CompLib.Collections.PriorityQueue`1.Any
+  name: Any()
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Any
+  commentId: M:CompLib.Collections.PriorityQueue`1.Any
+  fullName: CompLib.Collections.PriorityQueue<T>.Any()
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Any()
+  nameWithType: PriorityQueue<T>.Any()
+  nameWithType.vb: PriorityQueue(Of T).Any()
+- uid: CompLib.Collections.PriorityQueue`1.Any*
+  name: Any
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Any_
+  commentId: Overload:CompLib.Collections.PriorityQueue`1.Any
+  isSpec: "True"
+  fullName: CompLib.Collections.PriorityQueue<T>.Any
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Any
+  nameWithType: PriorityQueue<T>.Any
+  nameWithType.vb: PriorityQueue(Of T).Any
+- uid: CompLib.Collections.PriorityQueue`1.Count
+  name: Count
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Count
+  commentId: P:CompLib.Collections.PriorityQueue`1.Count
+  fullName: CompLib.Collections.PriorityQueue<T>.Count
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Count
+  nameWithType: PriorityQueue<T>.Count
+  nameWithType.vb: PriorityQueue(Of T).Count
+- uid: CompLib.Collections.PriorityQueue`1.Count*
+  name: Count
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Count_
+  commentId: Overload:CompLib.Collections.PriorityQueue`1.Count
+  isSpec: "True"
+  fullName: CompLib.Collections.PriorityQueue<T>.Count
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Count
+  nameWithType: PriorityQueue<T>.Count
+  nameWithType.vb: PriorityQueue(Of T).Count
+- uid: CompLib.Collections.PriorityQueue`1.Dequeue
+  name: Dequeue()
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Dequeue
+  commentId: M:CompLib.Collections.PriorityQueue`1.Dequeue
+  fullName: CompLib.Collections.PriorityQueue<T>.Dequeue()
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Dequeue()
+  nameWithType: PriorityQueue<T>.Dequeue()
+  nameWithType.vb: PriorityQueue(Of T).Dequeue()
+- uid: CompLib.Collections.PriorityQueue`1.Dequeue*
+  name: Dequeue
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Dequeue_
+  commentId: Overload:CompLib.Collections.PriorityQueue`1.Dequeue
+  isSpec: "True"
+  fullName: CompLib.Collections.PriorityQueue<T>.Dequeue
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Dequeue
+  nameWithType: PriorityQueue<T>.Dequeue
+  nameWithType.vb: PriorityQueue(Of T).Dequeue
+- uid: CompLib.Collections.PriorityQueue`1.Enqueue(`0)
+  name: Enqueue(T)
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Enqueue__0_
+  commentId: M:CompLib.Collections.PriorityQueue`1.Enqueue(`0)
+  fullName: CompLib.Collections.PriorityQueue<T>.Enqueue(T)
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Enqueue(T)
+  nameWithType: PriorityQueue<T>.Enqueue(T)
+  nameWithType.vb: PriorityQueue(Of T).Enqueue(T)
+- uid: CompLib.Collections.PriorityQueue`1.Enqueue*
+  name: Enqueue
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Enqueue_
+  commentId: Overload:CompLib.Collections.PriorityQueue`1.Enqueue
+  isSpec: "True"
+  fullName: CompLib.Collections.PriorityQueue<T>.Enqueue
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Enqueue
+  nameWithType: PriorityQueue<T>.Enqueue
+  nameWithType.vb: PriorityQueue(Of T).Enqueue
+- uid: CompLib.Collections.PriorityQueue`1.Items
+  name: Items
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Items
+  commentId: P:CompLib.Collections.PriorityQueue`1.Items
+  fullName: CompLib.Collections.PriorityQueue<T>.Items
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Items
+  nameWithType: PriorityQueue<T>.Items
+  nameWithType.vb: PriorityQueue(Of T).Items
+- uid: CompLib.Collections.PriorityQueue`1.Items*
+  name: Items
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Items_
+  commentId: Overload:CompLib.Collections.PriorityQueue`1.Items
+  isSpec: "True"
+  fullName: CompLib.Collections.PriorityQueue<T>.Items
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Items
+  nameWithType: PriorityQueue<T>.Items
+  nameWithType.vb: PriorityQueue(Of T).Items
+- uid: CompLib.Collections.PriorityQueue`1.Peek
+  name: Peek()
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Peek
+  commentId: M:CompLib.Collections.PriorityQueue`1.Peek
+  fullName: CompLib.Collections.PriorityQueue<T>.Peek()
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Peek()
+  nameWithType: PriorityQueue<T>.Peek()
+  nameWithType.vb: PriorityQueue(Of T).Peek()
+- uid: CompLib.Collections.PriorityQueue`1.Peek*
+  name: Peek
+  href: api/CompLib.Collections.PriorityQueue-1.html#CompLib_Collections_PriorityQueue_1_Peek_
+  commentId: Overload:CompLib.Collections.PriorityQueue`1.Peek
+  isSpec: "True"
+  fullName: CompLib.Collections.PriorityQueue<T>.Peek
+  fullName.vb: CompLib.Collections.PriorityQueue(Of T).Peek
+  nameWithType: PriorityQueue<T>.Peek
+  nameWithType.vb: PriorityQueue(Of T).Peek
+- uid: CompLib.Collections.RangeAddFenwickTree
+  name: RangeAddFenwickTree
+  href: api/CompLib.Collections.RangeAddFenwickTree.html
+  commentId: T:CompLib.Collections.RangeAddFenwickTree
+  fullName: CompLib.Collections.RangeAddFenwickTree
+  nameWithType: RangeAddFenwickTree
+- uid: CompLib.Collections.RangeAddFenwickTree.#ctor(System.Int32)
+  name: RangeAddFenwickTree(Int32)
+  href: api/CompLib.Collections.RangeAddFenwickTree.html#CompLib_Collections_RangeAddFenwickTree__ctor_System_Int32_
+  commentId: M:CompLib.Collections.RangeAddFenwickTree.#ctor(System.Int32)
+  fullName: CompLib.Collections.RangeAddFenwickTree.RangeAddFenwickTree(System.Int32)
+  nameWithType: RangeAddFenwickTree.RangeAddFenwickTree(Int32)
+- uid: CompLib.Collections.RangeAddFenwickTree.#ctor*
+  name: RangeAddFenwickTree
+  href: api/CompLib.Collections.RangeAddFenwickTree.html#CompLib_Collections_RangeAddFenwickTree__ctor_
+  commentId: Overload:CompLib.Collections.RangeAddFenwickTree.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.RangeAddFenwickTree.RangeAddFenwickTree
+  nameWithType: RangeAddFenwickTree.RangeAddFenwickTree
+- uid: CompLib.Collections.RangeAddFenwickTree.Add(System.Int32,System.Int32,System.Int64)
+  name: Add(Int32, Int32, System.Int64)
+  href: api/CompLib.Collections.RangeAddFenwickTree.html#CompLib_Collections_RangeAddFenwickTree_Add_System_Int32_System_Int32_System_Int64_
+  commentId: M:CompLib.Collections.RangeAddFenwickTree.Add(System.Int32,System.Int32,System.Int64)
+  fullName: CompLib.Collections.RangeAddFenwickTree.Add(System.Int32, System.Int32, System.Int64)
+  nameWithType: RangeAddFenwickTree.Add(Int32, Int32, System.Int64)
+- uid: CompLib.Collections.RangeAddFenwickTree.Add*
+  name: Add
+  href: api/CompLib.Collections.RangeAddFenwickTree.html#CompLib_Collections_RangeAddFenwickTree_Add_
+  commentId: Overload:CompLib.Collections.RangeAddFenwickTree.Add
+  isSpec: "True"
+  fullName: CompLib.Collections.RangeAddFenwickTree.Add
+  nameWithType: RangeAddFenwickTree.Add
+- uid: CompLib.Collections.RangeAddFenwickTree.Item(System.Int32)
+  name: Item[Int32]
+  href: api/CompLib.Collections.RangeAddFenwickTree.html#CompLib_Collections_RangeAddFenwickTree_Item_System_Int32_
+  commentId: P:CompLib.Collections.RangeAddFenwickTree.Item(System.Int32)
+  name.vb: Item(Int32)
+  fullName: CompLib.Collections.RangeAddFenwickTree.Item[System.Int32]
+  fullName.vb: CompLib.Collections.RangeAddFenwickTree.Item(System.Int32)
+  nameWithType: RangeAddFenwickTree.Item[Int32]
+  nameWithType.vb: RangeAddFenwickTree.Item(Int32)
+- uid: CompLib.Collections.RangeAddFenwickTree.Item(System.Int32,System.Int32)
+  name: Item[Int32, Int32]
+  href: api/CompLib.Collections.RangeAddFenwickTree.html#CompLib_Collections_RangeAddFenwickTree_Item_System_Int32_System_Int32_
+  commentId: P:CompLib.Collections.RangeAddFenwickTree.Item(System.Int32,System.Int32)
+  name.vb: Item(Int32, Int32)
+  fullName: CompLib.Collections.RangeAddFenwickTree.Item[System.Int32, System.Int32]
+  fullName.vb: CompLib.Collections.RangeAddFenwickTree.Item(System.Int32, System.Int32)
+  nameWithType: RangeAddFenwickTree.Item[Int32, Int32]
+  nameWithType.vb: RangeAddFenwickTree.Item(Int32, Int32)
+- uid: CompLib.Collections.RangeAddFenwickTree.Item*
+  name: Item
+  href: api/CompLib.Collections.RangeAddFenwickTree.html#CompLib_Collections_RangeAddFenwickTree_Item_
+  commentId: Overload:CompLib.Collections.RangeAddFenwickTree.Item
+  isSpec: "True"
+  fullName: CompLib.Collections.RangeAddFenwickTree.Item
+  nameWithType: RangeAddFenwickTree.Item
+- uid: CompLib.Collections.RangeAddFenwickTree.Items
+  name: Items
+  href: api/CompLib.Collections.RangeAddFenwickTree.html#CompLib_Collections_RangeAddFenwickTree_Items
+  commentId: P:CompLib.Collections.RangeAddFenwickTree.Items
+  fullName: CompLib.Collections.RangeAddFenwickTree.Items
+  nameWithType: RangeAddFenwickTree.Items
+- uid: CompLib.Collections.RangeAddFenwickTree.Items*
+  name: Items
+  href: api/CompLib.Collections.RangeAddFenwickTree.html#CompLib_Collections_RangeAddFenwickTree_Items_
+  commentId: Overload:CompLib.Collections.RangeAddFenwickTree.Items
+  isSpec: "True"
+  fullName: CompLib.Collections.RangeAddFenwickTree.Items
+  nameWithType: RangeAddFenwickTree.Items
+- uid: CompLib.Collections.RollbackDisjointSet
+  name: RollbackDisjointSet
+  href: api/CompLib.Collections.RollbackDisjointSet.html
+  commentId: T:CompLib.Collections.RollbackDisjointSet
+  fullName: CompLib.Collections.RollbackDisjointSet
+  nameWithType: RollbackDisjointSet
+- uid: CompLib.Collections.RollbackDisjointSet.#ctor(System.Int32)
+  name: RollbackDisjointSet(Int32)
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet__ctor_System_Int32_
+  commentId: M:CompLib.Collections.RollbackDisjointSet.#ctor(System.Int32)
+  fullName: CompLib.Collections.RollbackDisjointSet.RollbackDisjointSet(System.Int32)
+  nameWithType: RollbackDisjointSet.RollbackDisjointSet(Int32)
+- uid: CompLib.Collections.RollbackDisjointSet.#ctor(System.Int32,System.Int32[],System.Byte[])
+  name: RollbackDisjointSet(Int32, Int32[], Byte[])
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet__ctor_System_Int32_System_Int32___System_Byte___
+  commentId: M:CompLib.Collections.RollbackDisjointSet.#ctor(System.Int32,System.Int32[],System.Byte[])
+  name.vb: RollbackDisjointSet(Int32, Int32(), Byte())
+  fullName: CompLib.Collections.RollbackDisjointSet.RollbackDisjointSet(System.Int32, System.Int32[], System.Byte[])
+  fullName.vb: CompLib.Collections.RollbackDisjointSet.RollbackDisjointSet(System.Int32, System.Int32(), System.Byte())
+  nameWithType: RollbackDisjointSet.RollbackDisjointSet(Int32, Int32[], Byte[])
+  nameWithType.vb: RollbackDisjointSet.RollbackDisjointSet(Int32, Int32(), Byte())
+- uid: CompLib.Collections.RollbackDisjointSet.#ctor*
+  name: RollbackDisjointSet
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet__ctor_
+  commentId: Overload:CompLib.Collections.RollbackDisjointSet.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.RollbackDisjointSet.RollbackDisjointSet
+  nameWithType: RollbackDisjointSet.RollbackDisjointSet
+- uid: CompLib.Collections.RollbackDisjointSet.Back
+  name: Back()
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet_Back
+  commentId: M:CompLib.Collections.RollbackDisjointSet.Back
+  fullName: CompLib.Collections.RollbackDisjointSet.Back()
+  nameWithType: RollbackDisjointSet.Back()
+- uid: CompLib.Collections.RollbackDisjointSet.Back*
+  name: Back
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet_Back_
+  commentId: Overload:CompLib.Collections.RollbackDisjointSet.Back
+  isSpec: "True"
+  fullName: CompLib.Collections.RollbackDisjointSet.Back
+  nameWithType: RollbackDisjointSet.Back
+- uid: CompLib.Collections.RollbackDisjointSet.IsUnited(System.Int32,System.Int32)
+  name: IsUnited(Int32, Int32)
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet_IsUnited_System_Int32_System_Int32_
+  commentId: M:CompLib.Collections.RollbackDisjointSet.IsUnited(System.Int32,System.Int32)
+  fullName: CompLib.Collections.RollbackDisjointSet.IsUnited(System.Int32, System.Int32)
+  nameWithType: RollbackDisjointSet.IsUnited(Int32, Int32)
+- uid: CompLib.Collections.RollbackDisjointSet.IsUnited*
+  name: IsUnited
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet_IsUnited_
+  commentId: Overload:CompLib.Collections.RollbackDisjointSet.IsUnited
+  isSpec: "True"
+  fullName: CompLib.Collections.RollbackDisjointSet.IsUnited
+  nameWithType: RollbackDisjointSet.IsUnited
+- uid: CompLib.Collections.RollbackDisjointSet.Item(System.Int32)
+  name: Item[Int32]
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet_Item_System_Int32_
+  commentId: P:CompLib.Collections.RollbackDisjointSet.Item(System.Int32)
+  name.vb: Item(Int32)
+  fullName: CompLib.Collections.RollbackDisjointSet.Item[System.Int32]
+  fullName.vb: CompLib.Collections.RollbackDisjointSet.Item(System.Int32)
+  nameWithType: RollbackDisjointSet.Item[Int32]
+  nameWithType.vb: RollbackDisjointSet.Item(Int32)
+- uid: CompLib.Collections.RollbackDisjointSet.Item*
+  name: Item
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet_Item_
+  commentId: Overload:CompLib.Collections.RollbackDisjointSet.Item
+  isSpec: "True"
+  fullName: CompLib.Collections.RollbackDisjointSet.Item
+  nameWithType: RollbackDisjointSet.Item
+- uid: CompLib.Collections.RollbackDisjointSet.Size(System.Int32)
+  name: Size(Int32)
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet_Size_System_Int32_
+  commentId: M:CompLib.Collections.RollbackDisjointSet.Size(System.Int32)
+  fullName: CompLib.Collections.RollbackDisjointSet.Size(System.Int32)
+  nameWithType: RollbackDisjointSet.Size(Int32)
+- uid: CompLib.Collections.RollbackDisjointSet.Size*
+  name: Size
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet_Size_
+  commentId: Overload:CompLib.Collections.RollbackDisjointSet.Size
+  isSpec: "True"
+  fullName: CompLib.Collections.RollbackDisjointSet.Size
+  nameWithType: RollbackDisjointSet.Size
+- uid: CompLib.Collections.RollbackDisjointSet.Unite(System.Int32,System.Int32)
+  name: Unite(Int32, Int32)
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet_Unite_System_Int32_System_Int32_
+  commentId: M:CompLib.Collections.RollbackDisjointSet.Unite(System.Int32,System.Int32)
+  fullName: CompLib.Collections.RollbackDisjointSet.Unite(System.Int32, System.Int32)
+  nameWithType: RollbackDisjointSet.Unite(Int32, Int32)
+- uid: CompLib.Collections.RollbackDisjointSet.Unite*
+  name: Unite
+  href: api/CompLib.Collections.RollbackDisjointSet.html#CompLib_Collections_RollbackDisjointSet_Unite_
+  commentId: Overload:CompLib.Collections.RollbackDisjointSet.Unite
+  isSpec: "True"
+  fullName: CompLib.Collections.RollbackDisjointSet.Unite
+  nameWithType: RollbackDisjointSet.Unite
+- uid: CompLib.Collections.SegmentTree`2
+  name: SegmentTree<T, U>
+  href: api/CompLib.Collections.SegmentTree-2.html
+  commentId: T:CompLib.Collections.SegmentTree`2
+  name.vb: SegmentTree(Of T, U)
+  fullName: CompLib.Collections.SegmentTree<T, U>
+  fullName.vb: CompLib.Collections.SegmentTree(Of T, U)
+  nameWithType: SegmentTree<T, U>
+  nameWithType.vb: SegmentTree(Of T, U)
+- uid: CompLib.Collections.SegmentTree`2.#ctor(`0[])
+  name: SegmentTree(T[])
+  href: api/CompLib.Collections.SegmentTree-2.html#CompLib_Collections_SegmentTree_2__ctor__0___
+  commentId: M:CompLib.Collections.SegmentTree`2.#ctor(`0[])
+  name.vb: SegmentTree(T())
+  fullName: CompLib.Collections.SegmentTree<T, U>.SegmentTree(T[])
+  fullName.vb: CompLib.Collections.SegmentTree(Of T, U).SegmentTree(T())
+  nameWithType: SegmentTree<T, U>.SegmentTree(T[])
+  nameWithType.vb: SegmentTree(Of T, U).SegmentTree(T())
+- uid: CompLib.Collections.SegmentTree`2.#ctor(System.Int32)
+  name: SegmentTree(Int32)
+  href: api/CompLib.Collections.SegmentTree-2.html#CompLib_Collections_SegmentTree_2__ctor_System_Int32_
+  commentId: M:CompLib.Collections.SegmentTree`2.#ctor(System.Int32)
+  fullName: CompLib.Collections.SegmentTree<T, U>.SegmentTree(System.Int32)
+  fullName.vb: CompLib.Collections.SegmentTree(Of T, U).SegmentTree(System.Int32)
+  nameWithType: SegmentTree<T, U>.SegmentTree(Int32)
+  nameWithType.vb: SegmentTree(Of T, U).SegmentTree(Int32)
+- uid: CompLib.Collections.SegmentTree`2.#ctor*
+  name: SegmentTree
+  href: api/CompLib.Collections.SegmentTree-2.html#CompLib_Collections_SegmentTree_2__ctor_
+  commentId: Overload:CompLib.Collections.SegmentTree`2.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.SegmentTree<T, U>.SegmentTree
+  fullName.vb: CompLib.Collections.SegmentTree(Of T, U).SegmentTree
+  nameWithType: SegmentTree<T, U>.SegmentTree
+  nameWithType.vb: SegmentTree(Of T, U).SegmentTree
+- uid: CompLib.Collections.SegmentTree`2.Items
+  name: Items
+  href: api/CompLib.Collections.SegmentTree-2.html#CompLib_Collections_SegmentTree_2_Items
+  commentId: P:CompLib.Collections.SegmentTree`2.Items
+  fullName: CompLib.Collections.SegmentTree<T, U>.Items
+  fullName.vb: CompLib.Collections.SegmentTree(Of T, U).Items
+  nameWithType: SegmentTree<T, U>.Items
+  nameWithType.vb: SegmentTree(Of T, U).Items
+- uid: CompLib.Collections.SegmentTree`2.Items*
+  name: Items
+  href: api/CompLib.Collections.SegmentTree-2.html#CompLib_Collections_SegmentTree_2_Items_
+  commentId: Overload:CompLib.Collections.SegmentTree`2.Items
+  isSpec: "True"
+  fullName: CompLib.Collections.SegmentTree<T, U>.Items
+  fullName.vb: CompLib.Collections.SegmentTree(Of T, U).Items
+  nameWithType: SegmentTree<T, U>.Items
+  nameWithType.vb: SegmentTree(Of T, U).Items
+- uid: CompLib.Collections.SegmentTree`2.Query(System.Int32,System.Int32)
+  name: Query(Int32, Int32)
+  href: api/CompLib.Collections.SegmentTree-2.html#CompLib_Collections_SegmentTree_2_Query_System_Int32_System_Int32_
+  commentId: M:CompLib.Collections.SegmentTree`2.Query(System.Int32,System.Int32)
+  fullName: CompLib.Collections.SegmentTree<T, U>.Query(System.Int32, System.Int32)
+  fullName.vb: CompLib.Collections.SegmentTree(Of T, U).Query(System.Int32, System.Int32)
+  nameWithType: SegmentTree<T, U>.Query(Int32, Int32)
+  nameWithType.vb: SegmentTree(Of T, U).Query(Int32, Int32)
+- uid: CompLib.Collections.SegmentTree`2.Query*
+  name: Query
+  href: api/CompLib.Collections.SegmentTree-2.html#CompLib_Collections_SegmentTree_2_Query_
+  commentId: Overload:CompLib.Collections.SegmentTree`2.Query
+  isSpec: "True"
+  fullName: CompLib.Collections.SegmentTree<T, U>.Query
+  fullName.vb: CompLib.Collections.SegmentTree(Of T, U).Query
+  nameWithType: SegmentTree<T, U>.Query
+  nameWithType.vb: SegmentTree(Of T, U).Query
+- uid: CompLib.Collections.SegmentTree`2.Update(System.Int32,`0)
+  name: Update(Int32, T)
+  href: api/CompLib.Collections.SegmentTree-2.html#CompLib_Collections_SegmentTree_2_Update_System_Int32__0_
+  commentId: M:CompLib.Collections.SegmentTree`2.Update(System.Int32,`0)
+  fullName: CompLib.Collections.SegmentTree<T, U>.Update(System.Int32, T)
+  fullName.vb: CompLib.Collections.SegmentTree(Of T, U).Update(System.Int32, T)
+  nameWithType: SegmentTree<T, U>.Update(Int32, T)
+  nameWithType.vb: SegmentTree(Of T, U).Update(Int32, T)
+- uid: CompLib.Collections.SegmentTree`2.Update*
+  name: Update
+  href: api/CompLib.Collections.SegmentTree-2.html#CompLib_Collections_SegmentTree_2_Update_
+  commentId: Overload:CompLib.Collections.SegmentTree`2.Update
+  isSpec: "True"
+  fullName: CompLib.Collections.SegmentTree<T, U>.Update
+  fullName.vb: CompLib.Collections.SegmentTree(Of T, U).Update
+  nameWithType: SegmentTree<T, U>.Update
+  nameWithType.vb: SegmentTree(Of T, U).Update
+- uid: CompLib.Collections.Set`1
+  name: Set<T>
+  href: api/CompLib.Collections.Set-1.html
+  commentId: T:CompLib.Collections.Set`1
+  name.vb: Set(Of T)
+  fullName: CompLib.Collections.Set<T>
+  fullName.vb: CompLib.Collections.Set(Of T)
+  nameWithType: Set<T>
+  nameWithType.vb: Set(Of T)
+- uid: CompLib.Collections.Set`1.#ctor
+  name: Set()
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1__ctor
+  commentId: M:CompLib.Collections.Set`1.#ctor
+  fullName: CompLib.Collections.Set<T>.Set()
+  fullName.vb: CompLib.Collections.Set(Of T).Set()
+  nameWithType: Set<T>.Set()
+  nameWithType.vb: Set(Of T).Set()
+- uid: CompLib.Collections.Set`1.#ctor(Comparison{`0})
+  name: Set(Comparison<T>)
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1__ctor_Comparison__0__
+  commentId: M:CompLib.Collections.Set`1.#ctor(Comparison{`0})
+  name.vb: Set(Comparison(Of T))
+  fullName: CompLib.Collections.Set<T>.Set(Comparison<T>)
+  fullName.vb: CompLib.Collections.Set(Of T).Set(Comparison(Of T))
+  nameWithType: Set<T>.Set(Comparison<T>)
+  nameWithType.vb: Set(Of T).Set(Comparison(Of T))
+- uid: CompLib.Collections.Set`1.#ctor(IComparer{`0})
+  name: Set(IComparer<T>)
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1__ctor_IComparer__0__
+  commentId: M:CompLib.Collections.Set`1.#ctor(IComparer{`0})
+  name.vb: Set(IComparer(Of T))
+  fullName: CompLib.Collections.Set<T>.Set(IComparer<T>)
+  fullName.vb: CompLib.Collections.Set(Of T).Set(IComparer(Of T))
+  nameWithType: Set<T>.Set(IComparer<T>)
+  nameWithType.vb: Set(Of T).Set(IComparer(Of T))
+- uid: CompLib.Collections.Set`1.#ctor*
+  name: Set
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1__ctor_
+  commentId: Overload:CompLib.Collections.Set`1.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.Set<T>.Set
+  fullName.vb: CompLib.Collections.Set(Of T).Set
+  nameWithType: Set<T>.Set
+  nameWithType.vb: Set(Of T).Set
+- uid: CompLib.Collections.Set`1.Add(`0)
+  name: Add(T)
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_Add__0_
+  commentId: M:CompLib.Collections.Set`1.Add(`0)
+  fullName: CompLib.Collections.Set<T>.Add(T)
+  fullName.vb: CompLib.Collections.Set(Of T).Add(T)
+  nameWithType: Set<T>.Add(T)
+  nameWithType.vb: Set(Of T).Add(T)
+- uid: CompLib.Collections.Set`1.Add*
+  name: Add
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_Add_
+  commentId: Overload:CompLib.Collections.Set`1.Add
+  isSpec: "True"
+  fullName: CompLib.Collections.Set<T>.Add
+  fullName.vb: CompLib.Collections.Set(Of T).Add
+  nameWithType: Set<T>.Add
+  nameWithType.vb: Set(Of T).Add
+- uid: CompLib.Collections.Set`1.Count
+  name: Count
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_Count
+  commentId: P:CompLib.Collections.Set`1.Count
+  fullName: CompLib.Collections.Set<T>.Count
+  fullName.vb: CompLib.Collections.Set(Of T).Count
+  nameWithType: Set<T>.Count
+  nameWithType.vb: Set(Of T).Count
+- uid: CompLib.Collections.Set`1.Count*
+  name: Count
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_Count_
+  commentId: Overload:CompLib.Collections.Set`1.Count
+  isSpec: "True"
+  fullName: CompLib.Collections.Set<T>.Count
+  fullName.vb: CompLib.Collections.Set(Of T).Count
+  nameWithType: Set<T>.Count
+  nameWithType.vb: Set(Of T).Count
+- uid: CompLib.Collections.Set`1.IsMultiSet
+  name: IsMultiSet
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_IsMultiSet
+  commentId: P:CompLib.Collections.Set`1.IsMultiSet
+  fullName: CompLib.Collections.Set<T>.IsMultiSet
+  fullName.vb: CompLib.Collections.Set(Of T).IsMultiSet
+  nameWithType: Set<T>.IsMultiSet
+  nameWithType.vb: Set(Of T).IsMultiSet
+- uid: CompLib.Collections.Set`1.IsMultiSet*
+  name: IsMultiSet
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_IsMultiSet_
+  commentId: Overload:CompLib.Collections.Set`1.IsMultiSet
+  isSpec: "True"
+  fullName: CompLib.Collections.Set<T>.IsMultiSet
+  fullName.vb: CompLib.Collections.Set(Of T).IsMultiSet
+  nameWithType: Set<T>.IsMultiSet
+  nameWithType.vb: Set(Of T).IsMultiSet
+- uid: CompLib.Collections.Set`1.Item(System.Int32)
+  name: Item[Int32]
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_Item_System_Int32_
+  commentId: P:CompLib.Collections.Set`1.Item(System.Int32)
+  name.vb: Item(Int32)
+  fullName: CompLib.Collections.Set<T>.Item[System.Int32]
+  fullName.vb: CompLib.Collections.Set(Of T).Item(System.Int32)
+  nameWithType: Set<T>.Item[Int32]
+  nameWithType.vb: Set(Of T).Item(Int32)
+- uid: CompLib.Collections.Set`1.Item*
+  name: Item
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_Item_
+  commentId: Overload:CompLib.Collections.Set`1.Item
+  isSpec: "True"
+  fullName: CompLib.Collections.Set<T>.Item
+  fullName.vb: CompLib.Collections.Set(Of T).Item
+  nameWithType: Set<T>.Item
+  nameWithType.vb: Set(Of T).Item
+- uid: CompLib.Collections.Set`1.Items
+  name: Items
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_Items
+  commentId: P:CompLib.Collections.Set`1.Items
+  fullName: CompLib.Collections.Set<T>.Items
+  fullName.vb: CompLib.Collections.Set(Of T).Items
+  nameWithType: Set<T>.Items
+  nameWithType.vb: Set(Of T).Items
+- uid: CompLib.Collections.Set`1.Items*
+  name: Items
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_Items_
+  commentId: Overload:CompLib.Collections.Set`1.Items
+  isSpec: "True"
+  fullName: CompLib.Collections.Set<T>.Items
+  fullName.vb: CompLib.Collections.Set(Of T).Items
+  nameWithType: Set<T>.Items
+  nameWithType.vb: Set(Of T).Items
+- uid: CompLib.Collections.Set`1.LowerBound(`0)
+  name: LowerBound(T)
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_LowerBound__0_
+  commentId: M:CompLib.Collections.Set`1.LowerBound(`0)
+  fullName: CompLib.Collections.Set<T>.LowerBound(T)
+  fullName.vb: CompLib.Collections.Set(Of T).LowerBound(T)
+  nameWithType: Set<T>.LowerBound(T)
+  nameWithType.vb: Set(Of T).LowerBound(T)
+- uid: CompLib.Collections.Set`1.LowerBound*
+  name: LowerBound
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_LowerBound_
+  commentId: Overload:CompLib.Collections.Set`1.LowerBound
+  isSpec: "True"
+  fullName: CompLib.Collections.Set<T>.LowerBound
+  fullName.vb: CompLib.Collections.Set(Of T).LowerBound
+  nameWithType: Set<T>.LowerBound
+  nameWithType.vb: Set(Of T).LowerBound
+- uid: CompLib.Collections.Set`1.Remove(`0)
+  name: Remove(T)
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_Remove__0_
+  commentId: M:CompLib.Collections.Set`1.Remove(`0)
+  fullName: CompLib.Collections.Set<T>.Remove(T)
+  fullName.vb: CompLib.Collections.Set(Of T).Remove(T)
+  nameWithType: Set<T>.Remove(T)
+  nameWithType.vb: Set(Of T).Remove(T)
+- uid: CompLib.Collections.Set`1.Remove*
+  name: Remove
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_Remove_
+  commentId: Overload:CompLib.Collections.Set`1.Remove
+  isSpec: "True"
+  fullName: CompLib.Collections.Set<T>.Remove
+  fullName.vb: CompLib.Collections.Set(Of T).Remove
+  nameWithType: Set<T>.Remove
+  nameWithType.vb: Set(Of T).Remove
+- uid: CompLib.Collections.Set`1.RemoveAt(System.Int32)
+  name: RemoveAt(Int32)
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_RemoveAt_System_Int32_
+  commentId: M:CompLib.Collections.Set`1.RemoveAt(System.Int32)
+  fullName: CompLib.Collections.Set<T>.RemoveAt(System.Int32)
+  fullName.vb: CompLib.Collections.Set(Of T).RemoveAt(System.Int32)
+  nameWithType: Set<T>.RemoveAt(Int32)
+  nameWithType.vb: Set(Of T).RemoveAt(Int32)
+- uid: CompLib.Collections.Set`1.RemoveAt*
+  name: RemoveAt
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_RemoveAt_
+  commentId: Overload:CompLib.Collections.Set`1.RemoveAt
+  isSpec: "True"
+  fullName: CompLib.Collections.Set<T>.RemoveAt
+  fullName.vb: CompLib.Collections.Set(Of T).RemoveAt
+  nameWithType: Set<T>.RemoveAt
+  nameWithType.vb: Set(Of T).RemoveAt
+- uid: CompLib.Collections.Set`1.UpperBound(`0)
+  name: UpperBound(T)
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_UpperBound__0_
+  commentId: M:CompLib.Collections.Set`1.UpperBound(`0)
+  fullName: CompLib.Collections.Set<T>.UpperBound(T)
+  fullName.vb: CompLib.Collections.Set(Of T).UpperBound(T)
+  nameWithType: Set<T>.UpperBound(T)
+  nameWithType.vb: Set(Of T).UpperBound(T)
+- uid: CompLib.Collections.Set`1.UpperBound*
+  name: UpperBound
+  href: api/CompLib.Collections.Set-1.html#CompLib_Collections_Set_1_UpperBound_
+  commentId: Overload:CompLib.Collections.Set`1.UpperBound
+  isSpec: "True"
+  fullName: CompLib.Collections.Set<T>.UpperBound
+  fullName.vb: CompLib.Collections.Set(Of T).UpperBound
+  nameWithType: Set<T>.UpperBound
+  nameWithType.vb: Set(Of T).UpperBound
+- uid: CompLib.Collections.SetSum
+  name: SetSum
+  href: api/CompLib.Collections.SetSum.html
+  commentId: T:CompLib.Collections.SetSum
+  fullName: CompLib.Collections.SetSum
+  nameWithType: SetSum
+- uid: CompLib.Collections.SetSum.Apply(System.Int32,System.Int32,System.Int64,System.Int64)
+  name: Apply(Int32, Int32, Int64, Int64)
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_Apply_System_Int32_System_Int32_System_Int64_System_Int64_
+  commentId: M:CompLib.Collections.SetSum.Apply(System.Int32,System.Int32,System.Int64,System.Int64)
+  fullName: CompLib.Collections.SetSum.Apply(System.Int32, System.Int32, System.Int64, System.Int64)
+  nameWithType: SetSum.Apply(Int32, Int32, Int64, Int64)
+- uid: CompLib.Collections.SetSum.Apply*
+  name: Apply
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_Apply_
+  commentId: Overload:CompLib.Collections.SetSum.Apply
+  isSpec: "True"
+  fullName: CompLib.Collections.SetSum.Apply
+  nameWithType: SetSum.Apply
+- uid: CompLib.Collections.SetSum.Identity
+  name: Identity
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_Identity
+  commentId: P:CompLib.Collections.SetSum.Identity
+  fullName: CompLib.Collections.SetSum.Identity
+  nameWithType: SetSum.Identity
+- uid: CompLib.Collections.SetSum.Identity*
+  name: Identity
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_Identity_
+  commentId: Overload:CompLib.Collections.SetSum.Identity
+  isSpec: "True"
+  fullName: CompLib.Collections.SetSum.Identity
+  nameWithType: SetSum.Identity
+- uid: CompLib.Collections.SetSum.InitValue
+  name: InitValue
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_InitValue
+  commentId: P:CompLib.Collections.SetSum.InitValue
+  fullName: CompLib.Collections.SetSum.InitValue
+  nameWithType: SetSum.InitValue
+- uid: CompLib.Collections.SetSum.InitValue*
+  name: InitValue
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_InitValue_
+  commentId: Overload:CompLib.Collections.SetSum.InitValue
+  isSpec: "True"
+  fullName: CompLib.Collections.SetSum.InitValue
+  nameWithType: SetSum.InitValue
+- uid: CompLib.Collections.SetSum.Merge(System.Int64,System.Int64)
+  name: Merge(Int64, Int64)
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_Merge_System_Int64_System_Int64_
+  commentId: M:CompLib.Collections.SetSum.Merge(System.Int64,System.Int64)
+  fullName: CompLib.Collections.SetSum.Merge(System.Int64, System.Int64)
+  nameWithType: SetSum.Merge(Int64, Int64)
+- uid: CompLib.Collections.SetSum.Merge*
+  name: Merge
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_Merge_
+  commentId: Overload:CompLib.Collections.SetSum.Merge
+  isSpec: "True"
+  fullName: CompLib.Collections.SetSum.Merge
+  nameWithType: SetSum.Merge
+- uid: CompLib.Collections.SetSum.Push(System.Int64,System.Int64)
+  name: Push(Int64, Int64)
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_Push_System_Int64_System_Int64_
+  commentId: M:CompLib.Collections.SetSum.Push(System.Int64,System.Int64)
+  fullName: CompLib.Collections.SetSum.Push(System.Int64, System.Int64)
+  nameWithType: SetSum.Push(Int64, Int64)
+- uid: CompLib.Collections.SetSum.Push*
+  name: Push
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_Push_
+  commentId: Overload:CompLib.Collections.SetSum.Push
+  isSpec: "True"
+  fullName: CompLib.Collections.SetSum.Push
+  nameWithType: SetSum.Push
+- uid: CompLib.Collections.SetSum.Zero
+  name: Zero
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_Zero
+  commentId: P:CompLib.Collections.SetSum.Zero
+  fullName: CompLib.Collections.SetSum.Zero
+  nameWithType: SetSum.Zero
+- uid: CompLib.Collections.SetSum.Zero*
+  name: Zero
+  href: api/CompLib.Collections.SetSum.html#CompLib_Collections_SetSum_Zero_
+  commentId: Overload:CompLib.Collections.SetSum.Zero
+  isSpec: "True"
+  fullName: CompLib.Collections.SetSum.Zero
+  nameWithType: SetSum.Zero
+- uid: CompLib.Collections.SetSumTree
+  name: SetSumTree
+  href: api/CompLib.Collections.SetSumTree.html
+  commentId: T:CompLib.Collections.SetSumTree
+  fullName: CompLib.Collections.SetSumTree
+  nameWithType: SetSumTree
+- uid: CompLib.Collections.SetSumTree.#ctor(System.Int32)
+  name: SetSumTree(Int32)
+  href: api/CompLib.Collections.SetSumTree.html#CompLib_Collections_SetSumTree__ctor_System_Int32_
+  commentId: M:CompLib.Collections.SetSumTree.#ctor(System.Int32)
+  fullName: CompLib.Collections.SetSumTree.SetSumTree(System.Int32)
+  nameWithType: SetSumTree.SetSumTree(Int32)
+- uid: CompLib.Collections.SetSumTree.#ctor*
+  name: SetSumTree
+  href: api/CompLib.Collections.SetSumTree.html#CompLib_Collections_SetSumTree__ctor_
+  commentId: Overload:CompLib.Collections.SetSumTree.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.SetSumTree.SetSumTree
+  nameWithType: SetSumTree.SetSumTree
+- uid: CompLib.Collections.SortedMap`2
+  name: SortedMap<K, V>
+  href: api/CompLib.Collections.SortedMap-2.html
+  commentId: T:CompLib.Collections.SortedMap`2
+  name.vb: SortedMap(Of K, V)
+  fullName: CompLib.Collections.SortedMap<K, V>
+  fullName.vb: CompLib.Collections.SortedMap(Of K, V)
+  nameWithType: SortedMap<K, V>
+  nameWithType.vb: SortedMap(Of K, V)
+- uid: CompLib.Collections.SortedMap`2.#ctor
+  name: SortedMap()
+  href: api/CompLib.Collections.SortedMap-2.html#CompLib_Collections_SortedMap_2__ctor
+  commentId: M:CompLib.Collections.SortedMap`2.#ctor
+  fullName: CompLib.Collections.SortedMap<K, V>.SortedMap()
+  fullName.vb: CompLib.Collections.SortedMap(Of K, V).SortedMap()
+  nameWithType: SortedMap<K, V>.SortedMap()
+  nameWithType.vb: SortedMap(Of K, V).SortedMap()
+- uid: CompLib.Collections.SortedMap`2.#ctor(IComparer{`0})
+  name: SortedMap(IComparer<K>)
+  href: api/CompLib.Collections.SortedMap-2.html#CompLib_Collections_SortedMap_2__ctor_IComparer__0__
+  commentId: M:CompLib.Collections.SortedMap`2.#ctor(IComparer{`0})
+  name.vb: SortedMap(IComparer(Of K))
+  fullName: CompLib.Collections.SortedMap<K, V>.SortedMap(IComparer<K>)
+  fullName.vb: CompLib.Collections.SortedMap(Of K, V).SortedMap(IComparer(Of K))
+  nameWithType: SortedMap<K, V>.SortedMap(IComparer<K>)
+  nameWithType.vb: SortedMap(Of K, V).SortedMap(IComparer(Of K))
+- uid: CompLib.Collections.SortedMap`2.#ctor*
+  name: SortedMap
+  href: api/CompLib.Collections.SortedMap-2.html#CompLib_Collections_SortedMap_2__ctor_
+  commentId: Overload:CompLib.Collections.SortedMap`2.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.SortedMap<K, V>.SortedMap
+  fullName.vb: CompLib.Collections.SortedMap(Of K, V).SortedMap
+  nameWithType: SortedMap<K, V>.SortedMap
+  nameWithType.vb: SortedMap(Of K, V).SortedMap
+- uid: CompLib.Collections.SortedMap`2.Item(`0)
+  name: Item[K]
+  href: api/CompLib.Collections.SortedMap-2.html#CompLib_Collections_SortedMap_2_Item__0_
+  commentId: P:CompLib.Collections.SortedMap`2.Item(`0)
+  name.vb: Item(K)
+  fullName: CompLib.Collections.SortedMap<K, V>.Item[K]
+  fullName.vb: CompLib.Collections.SortedMap(Of K, V).Item(K)
+  nameWithType: SortedMap<K, V>.Item[K]
+  nameWithType.vb: SortedMap(Of K, V).Item(K)
+- uid: CompLib.Collections.SortedMap`2.Item*
+  name: Item
+  href: api/CompLib.Collections.SortedMap-2.html#CompLib_Collections_SortedMap_2_Item_
+  commentId: Overload:CompLib.Collections.SortedMap`2.Item
+  isSpec: "True"
+  fullName: CompLib.Collections.SortedMap<K, V>.Item
+  fullName.vb: CompLib.Collections.SortedMap(Of K, V).Item
+  nameWithType: SortedMap<K, V>.Item
+  nameWithType.vb: SortedMap(Of K, V).Item
+- uid: CompLib.Collections.StarrySkyTree
+  name: StarrySkyTree
+  href: api/CompLib.Collections.StarrySkyTree.html
+  commentId: T:CompLib.Collections.StarrySkyTree
+  fullName: CompLib.Collections.StarrySkyTree
+  nameWithType: StarrySkyTree
+- uid: CompLib.Collections.StarrySkyTree.#ctor(System.Int64[])
+  name: StarrySkyTree(Int64[])
+  href: api/CompLib.Collections.StarrySkyTree.html#CompLib_Collections_StarrySkyTree__ctor_System_Int64___
+  commentId: M:CompLib.Collections.StarrySkyTree.#ctor(System.Int64[])
+  name.vb: StarrySkyTree(Int64())
+  fullName: CompLib.Collections.StarrySkyTree.StarrySkyTree(System.Int64[])
+  fullName.vb: CompLib.Collections.StarrySkyTree.StarrySkyTree(System.Int64())
+  nameWithType: StarrySkyTree.StarrySkyTree(Int64[])
+  nameWithType.vb: StarrySkyTree.StarrySkyTree(Int64())
+- uid: CompLib.Collections.StarrySkyTree.#ctor*
+  name: StarrySkyTree
+  href: api/CompLib.Collections.StarrySkyTree.html#CompLib_Collections_StarrySkyTree__ctor_
+  commentId: Overload:CompLib.Collections.StarrySkyTree.#ctor
+  isSpec: "True"
+  fullName: CompLib.Collections.StarrySkyTree.StarrySkyTree
+  nameWithType: StarrySkyTree.StarrySkyTree
+- uid: CompLib.Collections.StarySky
+  name: StarySky
+  href: api/CompLib.Collections.StarySky.html
+  commentId: T:CompLib.Collections.StarySky
+  fullName: CompLib.Collections.StarySky
+  nameWithType: StarySky
+- uid: CompLib.Collections.StarySky.Apply(System.Int32,System.Int32,System.Int64,System.Int64)
+  name: Apply(Int32, Int32, Int64, Int64)
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_Apply_System_Int32_System_Int32_System_Int64_System_Int64_
+  commentId: M:CompLib.Collections.StarySky.Apply(System.Int32,System.Int32,System.Int64,System.Int64)
+  fullName: CompLib.Collections.StarySky.Apply(System.Int32, System.Int32, System.Int64, System.Int64)
+  nameWithType: StarySky.Apply(Int32, Int32, Int64, Int64)
+- uid: CompLib.Collections.StarySky.Apply*
+  name: Apply
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_Apply_
+  commentId: Overload:CompLib.Collections.StarySky.Apply
+  isSpec: "True"
+  fullName: CompLib.Collections.StarySky.Apply
+  nameWithType: StarySky.Apply
+- uid: CompLib.Collections.StarySky.Identity
+  name: Identity
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_Identity
+  commentId: P:CompLib.Collections.StarySky.Identity
+  fullName: CompLib.Collections.StarySky.Identity
+  nameWithType: StarySky.Identity
+- uid: CompLib.Collections.StarySky.Identity*
+  name: Identity
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_Identity_
+  commentId: Overload:CompLib.Collections.StarySky.Identity
+  isSpec: "True"
+  fullName: CompLib.Collections.StarySky.Identity
+  nameWithType: StarySky.Identity
+- uid: CompLib.Collections.StarySky.InitValue
+  name: InitValue
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_InitValue
+  commentId: P:CompLib.Collections.StarySky.InitValue
+  fullName: CompLib.Collections.StarySky.InitValue
+  nameWithType: StarySky.InitValue
+- uid: CompLib.Collections.StarySky.InitValue*
+  name: InitValue
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_InitValue_
+  commentId: Overload:CompLib.Collections.StarySky.InitValue
+  isSpec: "True"
+  fullName: CompLib.Collections.StarySky.InitValue
+  nameWithType: StarySky.InitValue
+- uid: CompLib.Collections.StarySky.Merge(System.Int64,System.Int64)
+  name: Merge(Int64, Int64)
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_Merge_System_Int64_System_Int64_
+  commentId: M:CompLib.Collections.StarySky.Merge(System.Int64,System.Int64)
+  fullName: CompLib.Collections.StarySky.Merge(System.Int64, System.Int64)
+  nameWithType: StarySky.Merge(Int64, Int64)
+- uid: CompLib.Collections.StarySky.Merge*
+  name: Merge
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_Merge_
+  commentId: Overload:CompLib.Collections.StarySky.Merge
+  isSpec: "True"
+  fullName: CompLib.Collections.StarySky.Merge
+  nameWithType: StarySky.Merge
+- uid: CompLib.Collections.StarySky.Push(System.Int64,System.Int64)
+  name: Push(Int64, Int64)
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_Push_System_Int64_System_Int64_
+  commentId: M:CompLib.Collections.StarySky.Push(System.Int64,System.Int64)
+  fullName: CompLib.Collections.StarySky.Push(System.Int64, System.Int64)
+  nameWithType: StarySky.Push(Int64, Int64)
+- uid: CompLib.Collections.StarySky.Push*
+  name: Push
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_Push_
+  commentId: Overload:CompLib.Collections.StarySky.Push
+  isSpec: "True"
+  fullName: CompLib.Collections.StarySky.Push
+  nameWithType: StarySky.Push
+- uid: CompLib.Collections.StarySky.Zero
+  name: Zero
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_Zero
+  commentId: P:CompLib.Collections.StarySky.Zero
+  fullName: CompLib.Collections.StarySky.Zero
+  nameWithType: StarySky.Zero
+- uid: CompLib.Collections.StarySky.Zero*
+  name: Zero
+  href: api/CompLib.Collections.StarySky.html#CompLib_Collections_StarySky_Zero_
+  commentId: Overload:CompLib.Collections.StarySky.Zero
+  isSpec: "True"
+  fullName: CompLib.Collections.StarySky.Zero
+  nameWithType: StarySky.Zero
+- uid: CompLib.Graph
+  name: CompLib.Graph
+  href: api/CompLib.Graph.html
+  commentId: N:CompLib.Graph
+  fullName: CompLib.Graph
+  nameWithType: CompLib.Graph
+- uid: CompLib.Graph.HLTree
+  name: HLTree
+  href: api/CompLib.Graph.HLTree.html
+  commentId: T:CompLib.Graph.HLTree
+  fullName: CompLib.Graph.HLTree
+  nameWithType: HLTree
+- uid: CompLib.Graph.HLTree.#ctor(System.Int32)
+  name: HLTree(Int32)
+  href: api/CompLib.Graph.HLTree.html#CompLib_Graph_HLTree__ctor_System_Int32_
+  commentId: M:CompLib.Graph.HLTree.#ctor(System.Int32)
+  fullName: CompLib.Graph.HLTree.HLTree(System.Int32)
+  nameWithType: HLTree.HLTree(Int32)
+- uid: CompLib.Graph.HLTree.#ctor*
+  name: HLTree
+  href: api/CompLib.Graph.HLTree.html#CompLib_Graph_HLTree__ctor_
+  commentId: Overload:CompLib.Graph.HLTree.#ctor
+  isSpec: "True"
+  fullName: CompLib.Graph.HLTree.HLTree
+  nameWithType: HLTree.HLTree
+- uid: CompLib.Graph.HLTree.AddEdge(System.Int32,System.Int32)
+  name: AddEdge(Int32, Int32)
+  href: api/CompLib.Graph.HLTree.html#CompLib_Graph_HLTree_AddEdge_System_Int32_System_Int32_
+  commentId: M:CompLib.Graph.HLTree.AddEdge(System.Int32,System.Int32)
+  fullName: CompLib.Graph.HLTree.AddEdge(System.Int32, System.Int32)
+  nameWithType: HLTree.AddEdge(Int32, Int32)
+- uid: CompLib.Graph.HLTree.AddEdge*
+  name: AddEdge
+  href: api/CompLib.Graph.HLTree.html#CompLib_Graph_HLTree_AddEdge_
+  commentId: Overload:CompLib.Graph.HLTree.AddEdge
+  isSpec: "True"
+  fullName: CompLib.Graph.HLTree.AddEdge
+  nameWithType: HLTree.AddEdge
+- uid: CompLib.Graph.HLTree.Build(System.Int32)
+  name: Build(Int32)
+  href: api/CompLib.Graph.HLTree.html#CompLib_Graph_HLTree_Build_System_Int32_
+  commentId: M:CompLib.Graph.HLTree.Build(System.Int32)
+  fullName: CompLib.Graph.HLTree.Build(System.Int32)
+  nameWithType: HLTree.Build(Int32)
+- uid: CompLib.Graph.HLTree.Build*
+  name: Build
+  href: api/CompLib.Graph.HLTree.html#CompLib_Graph_HLTree_Build_
+  commentId: Overload:CompLib.Graph.HLTree.Build
+  isSpec: "True"
+  fullName: CompLib.Graph.HLTree.Build
+  nameWithType: HLTree.Build
+- uid: CompLib.Graph.HLTree.G
+  name: G
+  href: api/CompLib.Graph.HLTree.html#CompLib_Graph_HLTree_G
+  commentId: F:CompLib.Graph.HLTree.G
+  fullName: CompLib.Graph.HLTree.G
+  nameWithType: HLTree.G
+- uid: CompLib.Graph.HLTree.L
+  name: L
+  href: api/CompLib.Graph.HLTree.html#CompLib_Graph_HLTree_L
+  commentId: F:CompLib.Graph.HLTree.L
+  fullName: CompLib.Graph.HLTree.L
+  nameWithType: HLTree.L
+- uid: CompLib.Graph.HLTree.LCA(System.Int32,System.Int32)
+  name: LCA(Int32, Int32)
+  href: api/CompLib.Graph.HLTree.html#CompLib_Graph_HLTree_LCA_System_Int32_System_Int32_
+  commentId: M:CompLib.Graph.HLTree.LCA(System.Int32,System.Int32)
+  fullName: CompLib.Graph.HLTree.LCA(System.Int32, System.Int32)
+  nameWithType: HLTree.LCA(Int32, Int32)
+- uid: CompLib.Graph.HLTree.LCA*
+  name: LCA
+  href: api/CompLib.Graph.HLTree.html#CompLib_Graph_HLTree_LCA_
+  commentId: Overload:CompLib.Graph.HLTree.LCA
+  isSpec: "True"
+  fullName: CompLib.Graph.HLTree.LCA
+  nameWithType: HLTree.LCA
+- uid: CompLib.Mathematics
+  name: CompLib.Mathematics
+  href: api/CompLib.Mathematics.html
+  commentId: N:CompLib.Mathematics
+  fullName: CompLib.Mathematics
+  nameWithType: CompLib.Mathematics
+- uid: CompLib.Mathematics.MathEx
+  name: MathEx
+  href: api/CompLib.Mathematics.MathEx.html
+  commentId: T:CompLib.Mathematics.MathEx
+  fullName: CompLib.Mathematics.MathEx
+  nameWithType: MathEx
+- uid: CompLib.Mathematics.MathEx.ExGCD(System.Int64,System.Int64,System.Int64@,System.Int64@)
+  name: ExGCD(Int64, Int64, out Int64, out Int64)
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_ExGCD_System_Int64_System_Int64_System_Int64__System_Int64__
+  commentId: M:CompLib.Mathematics.MathEx.ExGCD(System.Int64,System.Int64,System.Int64@,System.Int64@)
+  name.vb: ExGCD(Int64, Int64, ByRef Int64, ByRef Int64)
+  fullName: CompLib.Mathematics.MathEx.ExGCD(System.Int64, System.Int64, out System.Int64, out System.Int64)
+  fullName.vb: CompLib.Mathematics.MathEx.ExGCD(System.Int64, System.Int64, ByRef System.Int64, ByRef System.Int64)
+  nameWithType: MathEx.ExGCD(Int64, Int64, out Int64, out Int64)
+  nameWithType.vb: MathEx.ExGCD(Int64, Int64, ByRef Int64, ByRef Int64)
+- uid: CompLib.Mathematics.MathEx.ExGCD*
+  name: ExGCD
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_ExGCD_
+  commentId: Overload:CompLib.Mathematics.MathEx.ExGCD
+  isSpec: "True"
+  fullName: CompLib.Mathematics.MathEx.ExGCD
+  nameWithType: MathEx.ExGCD
+- uid: CompLib.Mathematics.MathEx.GCD(System.Int32,System.Int32)
+  name: GCD(Int32, Int32)
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_GCD_System_Int32_System_Int32_
+  commentId: M:CompLib.Mathematics.MathEx.GCD(System.Int32,System.Int32)
+  fullName: CompLib.Mathematics.MathEx.GCD(System.Int32, System.Int32)
+  nameWithType: MathEx.GCD(Int32, Int32)
+- uid: CompLib.Mathematics.MathEx.GCD(System.Int64,System.Int64)
+  name: GCD(Int64, Int64)
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_GCD_System_Int64_System_Int64_
+  commentId: M:CompLib.Mathematics.MathEx.GCD(System.Int64,System.Int64)
+  fullName: CompLib.Mathematics.MathEx.GCD(System.Int64, System.Int64)
+  nameWithType: MathEx.GCD(Int64, Int64)
+- uid: CompLib.Mathematics.MathEx.GCD*
+  name: GCD
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_GCD_
+  commentId: Overload:CompLib.Mathematics.MathEx.GCD
+  isSpec: "True"
+  fullName: CompLib.Mathematics.MathEx.GCD
+  nameWithType: MathEx.GCD
+- uid: CompLib.Mathematics.MathEx.LCM(System.Int64,System.Int64)
+  name: LCM(Int64, Int64)
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_LCM_System_Int64_System_Int64_
+  commentId: M:CompLib.Mathematics.MathEx.LCM(System.Int64,System.Int64)
+  fullName: CompLib.Mathematics.MathEx.LCM(System.Int64, System.Int64)
+  nameWithType: MathEx.LCM(Int64, Int64)
+- uid: CompLib.Mathematics.MathEx.LCM*
+  name: LCM
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_LCM_
+  commentId: Overload:CompLib.Mathematics.MathEx.LCM
+  isSpec: "True"
+  fullName: CompLib.Mathematics.MathEx.LCM
+  nameWithType: MathEx.LCM
+- uid: CompLib.Mathematics.MathEx.Sieve(System.Int32)
+  name: Sieve(Int32)
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_Sieve_System_Int32_
+  commentId: M:CompLib.Mathematics.MathEx.Sieve(System.Int32)
+  fullName: CompLib.Mathematics.MathEx.Sieve(System.Int32)
+  nameWithType: MathEx.Sieve(Int32)
+- uid: CompLib.Mathematics.MathEx.Sieve*
+  name: Sieve
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_Sieve_
+  commentId: Overload:CompLib.Mathematics.MathEx.Sieve
+  isSpec: "True"
+  fullName: CompLib.Mathematics.MathEx.Sieve
+  nameWithType: MathEx.Sieve
+- uid: CompLib.Mathematics.MathEx.SieveList(System.Int32)
+  name: SieveList(Int32)
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_SieveList_System_Int32_
+  commentId: M:CompLib.Mathematics.MathEx.SieveList(System.Int32)
+  fullName: CompLib.Mathematics.MathEx.SieveList(System.Int32)
+  nameWithType: MathEx.SieveList(Int32)
+- uid: CompLib.Mathematics.MathEx.SieveList*
+  name: SieveList
+  href: api/CompLib.Mathematics.MathEx.html#CompLib_Mathematics_MathEx_SieveList_
+  commentId: Overload:CompLib.Mathematics.MathEx.SieveList
+  isSpec: "True"
+  fullName: CompLib.Mathematics.MathEx.SieveList
+  nameWithType: MathEx.SieveList
+- uid: CompLib.Misc
+  name: CompLib.Misc
+  href: api/CompLib.Misc.html
+  commentId: N:CompLib.Misc
+  fullName: CompLib.Misc
+  nameWithType: CompLib.Misc
+- uid: CompLib.Misc.Algorithm
+  name: Algorithm
+  href: api/CompLib.Misc.Algorithm.html
+  commentId: T:CompLib.Misc.Algorithm
+  fullName: CompLib.Misc.Algorithm
+  nameWithType: Algorithm
+- uid: CompLib.Misc.Algorithm.LowerBound*
+  name: LowerBound
+  href: api/CompLib.Misc.Algorithm.html#CompLib_Misc_Algorithm_LowerBound_
+  commentId: Overload:CompLib.Misc.Algorithm.LowerBound
+  isSpec: "True"
+  fullName: CompLib.Misc.Algorithm.LowerBound
+  nameWithType: Algorithm.LowerBound
+- uid: CompLib.Misc.Algorithm.LowerBound``1(``0[],``0)
+  name: LowerBound<T>(T[], T)
+  href: api/CompLib.Misc.Algorithm.html#CompLib_Misc_Algorithm_LowerBound__1___0_____0_
+  commentId: M:CompLib.Misc.Algorithm.LowerBound``1(``0[],``0)
+  name.vb: LowerBound(Of T)(T(), T)
+  fullName: CompLib.Misc.Algorithm.LowerBound<T>(T[], T)
+  fullName.vb: CompLib.Misc.Algorithm.LowerBound(Of T)(T(), T)
+  nameWithType: Algorithm.LowerBound<T>(T[], T)
+  nameWithType.vb: Algorithm.LowerBound(Of T)(T(), T)
+- uid: CompLib.Misc.Algorithm.LowerBound``1(``0[],``0,Comparison{``0})
+  name: LowerBound<T>(T[], T, Comparison<T>)
+  href: api/CompLib.Misc.Algorithm.html#CompLib_Misc_Algorithm_LowerBound__1___0_____0_Comparison___0__
+  commentId: M:CompLib.Misc.Algorithm.LowerBound``1(``0[],``0,Comparison{``0})
+  name.vb: LowerBound(Of T)(T(), T, Comparison(Of T))
+  fullName: CompLib.Misc.Algorithm.LowerBound<T>(T[], T, Comparison<T>)
+  fullName.vb: CompLib.Misc.Algorithm.LowerBound(Of T)(T(), T, Comparison(Of T))
+  nameWithType: Algorithm.LowerBound<T>(T[], T, Comparison<T>)
+  nameWithType.vb: Algorithm.LowerBound(Of T)(T(), T, Comparison(Of T))
+- uid: CompLib.Misc.Algorithm.LowerBound``1(List{``0},``0)
+  name: LowerBound<T>(List<T>, T)
+  href: api/CompLib.Misc.Algorithm.html#CompLib_Misc_Algorithm_LowerBound__1_List___0____0_
+  commentId: M:CompLib.Misc.Algorithm.LowerBound``1(List{``0},``0)
+  name.vb: LowerBound(Of T)(List(Of T), T)
+  fullName: CompLib.Misc.Algorithm.LowerBound<T>(List<T>, T)
+  fullName.vb: CompLib.Misc.Algorithm.LowerBound(Of T)(List(Of T), T)
+  nameWithType: Algorithm.LowerBound<T>(List<T>, T)
+  nameWithType.vb: Algorithm.LowerBound(Of T)(List(Of T), T)
+- uid: CompLib.Misc.Algorithm.LowerBound``1(List{``0},``0,Comparison{``0})
+  name: LowerBound<T>(List<T>, T, Comparison<T>)
+  href: api/CompLib.Misc.Algorithm.html#CompLib_Misc_Algorithm_LowerBound__1_List___0____0_Comparison___0__
+  commentId: M:CompLib.Misc.Algorithm.LowerBound``1(List{``0},``0,Comparison{``0})
+  name.vb: LowerBound(Of T)(List(Of T), T, Comparison(Of T))
+  fullName: CompLib.Misc.Algorithm.LowerBound<T>(List<T>, T, Comparison<T>)
+  fullName.vb: CompLib.Misc.Algorithm.LowerBound(Of T)(List(Of T), T, Comparison(Of T))
+  nameWithType: Algorithm.LowerBound<T>(List<T>, T, Comparison<T>)
+  nameWithType.vb: Algorithm.LowerBound(Of T)(List(Of T), T, Comparison(Of T))
+- uid: CompLib.Misc.Algorithm.UpperBound*
+  name: UpperBound
+  href: api/CompLib.Misc.Algorithm.html#CompLib_Misc_Algorithm_UpperBound_
+  commentId: Overload:CompLib.Misc.Algorithm.UpperBound
+  isSpec: "True"
+  fullName: CompLib.Misc.Algorithm.UpperBound
+  nameWithType: Algorithm.UpperBound
+- uid: CompLib.Misc.Algorithm.UpperBound``1(``0[],``0)
+  name: UpperBound<T>(T[], T)
+  href: api/CompLib.Misc.Algorithm.html#CompLib_Misc_Algorithm_UpperBound__1___0_____0_
+  commentId: M:CompLib.Misc.Algorithm.UpperBound``1(``0[],``0)
+  name.vb: UpperBound(Of T)(T(), T)
+  fullName: CompLib.Misc.Algorithm.UpperBound<T>(T[], T)
+  fullName.vb: CompLib.Misc.Algorithm.UpperBound(Of T)(T(), T)
+  nameWithType: Algorithm.UpperBound<T>(T[], T)
+  nameWithType.vb: Algorithm.UpperBound(Of T)(T(), T)
+- uid: CompLib.Misc.Algorithm.UpperBound``1(``0[],``0,Comparison{``0})
+  name: UpperBound<T>(T[], T, Comparison<T>)
+  href: api/CompLib.Misc.Algorithm.html#CompLib_Misc_Algorithm_UpperBound__1___0_____0_Comparison___0__
+  commentId: M:CompLib.Misc.Algorithm.UpperBound``1(``0[],``0,Comparison{``0})
+  name.vb: UpperBound(Of T)(T(), T, Comparison(Of T))
+  fullName: CompLib.Misc.Algorithm.UpperBound<T>(T[], T, Comparison<T>)
+  fullName.vb: CompLib.Misc.Algorithm.UpperBound(Of T)(T(), T, Comparison(Of T))
+  nameWithType: Algorithm.UpperBound<T>(T[], T, Comparison<T>)
+  nameWithType.vb: Algorithm.UpperBound(Of T)(T(), T, Comparison(Of T))
+- uid: CompLib.Misc.Algorithm.UpperBound``1(List{``0},``0)
+  name: UpperBound<T>(List<T>, T)
+  href: api/CompLib.Misc.Algorithm.html#CompLib_Misc_Algorithm_UpperBound__1_List___0____0_
+  commentId: M:CompLib.Misc.Algorithm.UpperBound``1(List{``0},``0)
+  name.vb: UpperBound(Of T)(List(Of T), T)
+  fullName: CompLib.Misc.Algorithm.UpperBound<T>(List<T>, T)
+  fullName.vb: CompLib.Misc.Algorithm.UpperBound(Of T)(List(Of T), T)
+  nameWithType: Algorithm.UpperBound<T>(List<T>, T)
+  nameWithType.vb: Algorithm.UpperBound(Of T)(List(Of T), T)
+- uid: CompLib.Misc.Algorithm.UpperBound``1(List{``0},``0,Comparison{``0})
+  name: UpperBound<T>(List<T>, T, Comparison<T>)
+  href: api/CompLib.Misc.Algorithm.html#CompLib_Misc_Algorithm_UpperBound__1_List___0____0_Comparison___0__
+  commentId: M:CompLib.Misc.Algorithm.UpperBound``1(List{``0},``0,Comparison{``0})
+  name.vb: UpperBound(Of T)(List(Of T), T, Comparison(Of T))
+  fullName: CompLib.Misc.Algorithm.UpperBound<T>(List<T>, T, Comparison<T>)
+  fullName.vb: CompLib.Misc.Algorithm.UpperBound(Of T)(List(Of T), T, Comparison(Of T))
+  nameWithType: Algorithm.UpperBound<T>(List<T>, T, Comparison<T>)
+  nameWithType.vb: Algorithm.UpperBound(Of T)(List(Of T), T, Comparison(Of T))
+- uid: CompLib.Strings
+  name: CompLib.Strings
+  href: api/CompLib.Strings.html
+  commentId: N:CompLib.Strings
+  fullName: CompLib.Strings
+  nameWithType: CompLib.Strings
+- uid: CompLib.Strings.StringEx
+  name: StringEx
+  href: api/CompLib.Strings.StringEx.html
+  commentId: T:CompLib.Strings.StringEx
+  fullName: CompLib.Strings.StringEx
+  nameWithType: StringEx
+- uid: CompLib.Strings.StringEx.Z*
+  name: Z
+  href: api/CompLib.Strings.StringEx.html#CompLib_Strings_StringEx_Z_
+  commentId: Overload:CompLib.Strings.StringEx.Z
+  isSpec: "True"
+  fullName: CompLib.Strings.StringEx.Z
+  nameWithType: StringEx.Z
+- uid: CompLib.Strings.StringEx.Z``1(``0[])
+  name: Z<T>(T[])
+  href: api/CompLib.Strings.StringEx.html#CompLib_Strings_StringEx_Z__1___0___
+  commentId: M:CompLib.Strings.StringEx.Z``1(``0[])
+  name.vb: Z(Of T)(T())
+  fullName: CompLib.Strings.StringEx.Z<T>(T[])
+  fullName.vb: CompLib.Strings.StringEx.Z(Of T)(T())
+  nameWithType: StringEx.Z<T>(T[])
+  nameWithType.vb: StringEx.Z(Of T)(T())
