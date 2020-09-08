@@ -3,10 +3,12 @@
 #load "../../Library/Graph/HLTree.cs"
 //*/
 #pragma PROBLEM https://judge.yosupo.jp/problem/lca
+#load "../VerifyTestAttribute.csx"
 using System;
 using System.Collections.Generic;
 using CompLib.Graph;
 
+[VerifyType(typeof(HLTree))]
 var nq = Console.ReadLine().Split().Select(int.Parse).ToArray();
 var (n, q) = (nq[0], nq[1]);
 var hl = new HLTree(n);
