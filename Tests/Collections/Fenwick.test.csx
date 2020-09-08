@@ -3,11 +3,12 @@
 #load "../../Library/Collections/Fenwick.cs"
 //*/
 #pragma PROBLEM https://judge.yosupo.jp/problem/point_add_range_sum
-
+#load "../VerifyTestAttribute.csx"
 using System;
 using System.Collections.Generic;
 using CompLib.Collections;
 
+[VerifyType(typeof(FenwickTree))]
 int[] read() => Console.ReadLine().Split().Select(int.Parse).ToArray();
 
 var nq = read();

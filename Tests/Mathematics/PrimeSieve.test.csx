@@ -3,11 +3,12 @@
 #load "../../Library/Mathematics/PrimeSieve.cs"
 //*/
 #pragma PROBLEM https://judge.yosupo.jp/problem/enumerate_primes
-
+#load "../VerifyTestAttribute.csx"
 using System;
 using System.Collections.Generic;
 using CompLib.Mathematics;
 
+[VerifyType(typeof(MathEx))]
 var nab = Console.ReadLine().Split().Select(int.Parse).ToArray();
 var (n, a, b) = (nab[0], nab[1], nab[2]);
 
